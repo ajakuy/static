@@ -1,0 +1,43 @@
+import type { DocsInter } from '../../../data/docs/type'
+
+export const dataDoc: DocsInter[] = [
+    {
+        name: 'Tentang Kami',
+        list: [
+            {
+                title: 'Ajakuy.com',
+                list: [
+                    {
+                        value: `Ajakuy adalah sebuah layanan pembuatan undangan online yang flexible dan dinamis,
+                        Kami memberikan kebebasan pada pengguna untuk membuat undangan sendiri sambil melihat preview. 
+                        Sehingga pengguna mendapat gambaran visual secara langsung saat mengedit tema.`,
+                        type: 'text'
+                    },
+                    {
+                        value: `Ajakuy dibuat dan dikembangkan oleh...`,
+                        type: 'text'
+                    },
+                ]
+            },
+            {
+                title: 'Visi',
+                list: [
+                    {
+                        value: `Visi kami adalah`,
+                        type: 'text'
+                    },
+                ]
+            },
+            {
+                title: 'Misi',
+                list: [
+                    {
+                        value: `Misi kami adalah`,
+                        type: 'text'
+                    },
+                ]
+            },
+        ]
+    },
+
+]
