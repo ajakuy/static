@@ -1,0 +1,191 @@
+[
+    {
+        "name": "Tema",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Semua tema yang berasal dari ajakuy, harus mengatas namakan nama Ajakuy tanpa terkecuali. Pembelian tema yang sah hanya dapat melalui website dan layanan Ajakuy.",
+                        "type": "text"
+                    }
+                ]
+            },
+
+            {
+                "title": "Standar",
+                "list": [
+                    {
+                        "value": "Tema standar mencakup kebutuhan umum, untuk undangan pernikahan, umumnya didesain dengan gaya simple dan sederhana namun tetap terlihat menarik.",
+                        "type": "text"
+                    }
+                ]
+            },
+
+            {
+                "title": "Premium",
+                "list": [
+                    {
+                        "value": "Jenis tema ini memiliki semua fitur yang ada di paket standar, dan menambahkan beberapa fitur unggulan tambahan, tampilan tema juga terlihat lebih elegan dan menarik, jugs memiliki harga yang tidak jauh hemat dari tema standar",
+                        "type": "text"
+                    }
+                ]
+            }
+
+
+            
+        ]
+    },
+    {
+        "name": "Paket",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Kami menyediakan layanan paket paket langganan. Paket ini lebih dikususkan untuk para pelanggan yang ingin membeli tema untuk dijual lagi, tidak terkecuali secara perorangan. Dengan membeli paket, pelanggan dapat memilih tema apa saja tanpa terbatas ketetuan pada setiap paket.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Isi",
+                "list": [
+                    {
+                        "value": "Setiap paket memiliki isi berupa tema, yang berbeda-beda tergantung setiap paket. Pelanggan dapat melihat preview setiap isi paket, dan informasi-informasi lain yang lebih detail.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Batas Waktu",
+                "list": [
+                    {
+                        "value": "Setiap paket memiliki batas waktu masing-masing, terhitung sejak pertama kali paket tersebut dibeli. Tiap paket memiliki masa kadaluarsa yang berbeda-beda.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Limit Pemakaian",
+                "list": [
+                    {
+                        "value": "Limit pemakian berarti pelanggan akan dibatasi untuk memakai tema dalam paket yang sudah dibeli, misalnya 1000 pemakaian tema, jumlah batasan tema tergantung dari ketentuan tiap-tiap paket.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Perulangan Harga",
+                "list": [
+                    {
+                        "value": "Perulangan harga berarti jika pelanggan ingin menambah batas wkatu paket, harga yang ditawarkan akan berbeda, bisa sedikit naik atau turun tergantung ketentuan di tiap-tiap paket",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Hak",
+                "list": [
+                    {
+                        "value": "Pelanggan yang berlanggan paket mendapat hak khusus untuk menjual kembali undangan Ajakuy menjadi jasa, dengan mengatas namakan Ajakuy.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Meskipun mendapat hak untuk menjual undangan kepada orang lain, tetapi prosesnya harus dan wajib dilakukan dalam website Ajakuy, tidak bisa dengan mengambil tema, untuk ditaruh di website lain.  Mengedit link undangan tidak mengastas namakan Ajakuy sangat dilarang.",
+                        "type": "alert-info"
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "name": "Testimoni",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Testimoni adalah bentuk review yang diberikan kepada pelanggan untuk ajakuy, setiap pembelian tema. Sifatnya tidak wajib, namun jika pelanggan bersedia mengisi testimoni pelanggan akan mendapat Poin Ajakuy.",
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Reward",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Ajakuy memiliki sistem reward, berisi diskon-diskon yang dapat dipakai untuk pembelian di dalam Ajakuy, untuk mendapatkan hadiah-hadiah tersebut diperlukan poin.",
+                        "type": "text"
+                    }
+                ]
+            },
+
+            {
+                "title": "Poin",
+                "list": [
+                    {
+                        "value": "Poin Ajakuy bersifat pribadi, dan dapat bertambah setelah pelanggan memberikan testimoni ke undangan yang sudah dibeli. Poin ini dapat ditukarkan dengan promo khusus yang hanya bisa didapat dengan cara menukarkan poin.  Poin hanya terkait pada diskon pembelian tema dalam website Ajakuy.",
+                        "type": "text"
+                    }
+                ]
+            },
+
+            {
+                "title": "Milestones",
+                "list": [
+                    {
+                        "value": "Milestones adalah sistem reward yang dipakai Ajakuy, misalnya di dalam suatu reward terdapat milestrone sebagai berikut:",
+                        "type": "text"
+                    },
+                    {
+                        "value": [
+                            "500 Poin - Diskon 5%",
+                            "1000 Poin - Diskon 10%",
+                            "2000 Poin - Diskon 30%"
+                        ],
+                        "type": "list"
+                    },
+                    {
+                        "value": "Setiap kali point user menyentuh angka lebih dari point-point tersebut maka pelanggan dapat menukar pointnya. Misalnya ketika poin pelanggan mencapai 1000 maka pelanggan dapat menukar dengan diskon 5% dan 10%",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Daftar milestones dalam tiap-tiap reward dan hadiahnya berbeda-beda, pelanggan bebas memilih reward mana yang ingin mereka ikuti.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Jumlah",
+                "list": [
+                    {
+                        "value": "Pelanggan, hanya dapat mengikuti 1 reward saja, tapi pelanggan dapat juga berpindah reward ke reward lain, dengan catatan poin sebelumnya akan diulangi dari 0.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Ulang",
+                "list": [
+                    {
+                        "value": "Ketika pelanggan sudah mencapai batas akhir poin yang di dalam milestrone, misalnya 2000 Poin, pelanggan dapat mengulangi reward dari awal untuk mendapat hadiah yang sama, dan hadiah yang sudah di-klaim akan tetap tersimpan.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Selalu perhatikan tanggal kadaluarsa sebelum memutuskan untuk mengulangi reward, karena pelanggan tidak dapat mengikuti reward yang sudah kadaluarsa.",
+                        "type": "alert-warning"
+                    }
+                ]
+            }
+
+        ]
+    }
+
+]

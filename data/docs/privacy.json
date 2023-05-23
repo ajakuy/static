@@ -1,0 +1,91 @@
+ [
+    {
+        "name": "Kebijakan Privasi",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Kami menghargai privasi Anda dan berkomitmen untuk melindungi data pribadi Anda. Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi yang Anda berikan saat menggunakan website undangan pernikahan kami. Dengan menggunakan website kami, Anda setuju dengan kebijakan privasi ini.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Informasi yang Kami Kumpulkan",
+                "list": [
+                    {
+                        "value": "Kami mengumpulkan informasi dari Anda ketika Anda mengunjungi situs web kami, mendaftar, memesan produk atau layanan, atau berinteraksi dengan fitur atau sumber daya lain yang kami sediakan di situs kami.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Kami mengumpulkan informasi pribadi yang Anda berikan secara sukarela saat menggunakan website kami, seperti nama, e-mail, nomor telepon, alamat, dan jenis kelamin.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Kami juga menyimpan data transaksi, pembelian tema, statistik pengunjung, kebiasaan pengunjung, nama pengantin, alamat acara pernikahan, dan data-data lain yang Anda input saat mengedit undangan pernikahan.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Bagaimana Kami Menggunakan Informasi Anda",
+                "list": [
+                    {
+                        "value": "Kami menggunakan informasi yang kami kumpulkan dari Anda untuk memproses pesanan Anda, meningkatkan pengalaman pengguna situs kami, dan menyediakan layanan yang sesuai dengan kebutuhan Anda. Kami juga dapat menggunakan informasi Anda untuk mengirim email terkait dengan pesanan Anda, promosi, atau informasi lain yang relevan dengan produk atau layanan kami. Kami tidak akan menjual atau membagikan informasi Anda kepada pihak ketiga tanpa izin Anda, kecuali jika diwajibkan oleh hukum.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Bagaimana Kami Melindungi Informasi Anda",
+                "list": [
+                    {
+                        "value": "Kami mengambil langkah-langkah keamanan yang wajar untuk melindungi informasi pribadi Anda dari akses yang tidak sah, perubahan, pengungkapan, atau penghancuran yang tidak sah. Kami mengenkripsi informasi sensitif Anda menggunakan teknologi yang aman dan memperbarui sistem keamanan kami secara berkala.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Kebijakan Cookie dan Localstorage",
+                "list": [
+                    {
+                        "value": "Kami menggunakan teknologi cookie untuk mengumpulkan informasi tentang pengunjung situs web kami, yang bersifat sementara, seperti tanggal login. Cookie adalah penyimpanan teks sementara yang umum terdapat pada setiap browser, yang dapat terhapus tergantung dari tanggal kadaluarsa yang diatur pada setiap cookie. Contohnya, kami dapat menyimpan akses login Anda yang defaultnya adalah satu hari, dan setelah masa cookie tersebut kadaluarsa Anda otomasti logout dari website.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Localstorage juga merupakan penyimpanan sementara browser yang sifatnya tunggal dan pribadi di masing-masing browser pengguna. Kami menggunakan localstorage untuk menyimpan informasi berupa teks yang sifatnya sering digunakan pengguna. Ketika website ingin mengambil lagi informasi yang sering dipakai tersebut, website tidak akan melakukan request pada server kami melainkan mengambilnya melalui localstorage, hal ini memungkinkan kami untuk mempercepat pengambilan informasi dan meningkatkan performa dan kenyamanan akses cepat untuk pengguna website.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Perubahan pada Kebijakan Privasi",
+                "list": [
+                    {
+                        "value": "Kami berhak dan dapat memperbarui kebijakan privasi kami dari waktu ke waktu. Setiap perubahan yang dibuat akan diterbitkan di situs web kami.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Kontak",
+                "list": [
+                    {
+                        "value": "Jika Anda memiliki pertanyaan tentang kebijakan privasi kami atau penggunaan informasi Anda, silakan hubungi kami melalui informasi kontak yang disediakan di situs web kami.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Demikianlah kebijakan privasi kami. Dengan menggunakan situs web kami, Anda menyetujui pengumpulan dan penggunaan informasi Anda oleh kami sesuai dengan kebijakan privasi ini.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Diperbarui pada: 20 Maret 2023.",
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+
+]
