@@ -31,9 +31,6 @@
                     }
                 ]
             }
-
-
-            
         ]
     },
     {
@@ -153,7 +150,7 @@
                         "type": "list"
                     },
                     {
-                        "value": "Setiap kali point user menyentuh angka lebih dari point-point tersebut maka pelanggan dapat menukar pointnya. Misalnya ketika poin pelanggan mencapai 1000 maka pelanggan dapat menukar dengan diskon 5% dan 10%",
+                        "value": "Setiap kali point user menyentuh angka lebih dari point-point tersebut maka pelanggan dapat menukar pointnya dengan promo. Misalnya ketika poin pelanggan mencapai 1000 maka pelanggan dapat menukar dengan promo iskon 5% dan 10%",
                         "type": "text"
                     },
                     {
@@ -183,9 +180,52 @@
                         "type": "alert-warning"
                     }
                 ]
+            },
+            {
+                "title": "Ganti",
+                "list": [
+                    {
+                        "value": "Pelanggan yang sedang mengikuti satu reward, dapat berganti ke reward lainnya, tetapi dengan catatn poin yang sudah dikumpulkan pada reward sebelumnya akan hangus.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Namun, adapun konsisi unik yang mungkin mengharuskan pelanggan untuk berganti reward, seperti pelanggan belum mendapat hasil dari reward yang sedang dia ikuti, dan di hari yang sama muncul reward baru yang menurutnya lebih menguntungkan, maka pelanggan dapat lengsung berlaih ke rewad baru.",
+                        "type": "text"
+                    }
+                ]
             }
-
+        ]
+    },
+    {
+        "name": "Promo",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Promo adalah cara pelanggan mendapat potongan diskon ketike membeli tema, promo terbagi menjadi 2 macam, yaitu promo publik dan pribadi.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Publik",
+                "list": [
+                    {
+                        "value": "Promo publik adalah promo yang dapat diakses oleh semua orang, memiliki batas waktu, jumlah maksimal orang yang dapat mengklaim promo tersebut. Promo ini berada di halaman promo yang berada di halamam beranda.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Pribadi",
+                "list": [
+                    {
+                        "value": "Promo pribadi didapatkan user dengan cara mengklaim promo yang ada di dalam reward, jenis promo ini kebanyakan tidak memiliki masa berlaku, sehingga akan permanen tersimpan oleh user. Keunggulan lainnya dari promo ini, yaitu dapat dipakai saat perpanjangan masa paket.",
+                        "type": "text"
+                    }
+                ]
+            }
         ]
     }
-
 ]
