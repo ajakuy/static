@@ -34,6 +34,54 @@
         ]
     },
     {
+        "name": "Undangan",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Undangan merupakan tema yang akan diisi oleh informasi-informasi pelanggan, sesuai keinginan mereka. Dan harus mengikuti template tema yang tersedia, seperti yang sudah dijelaskan dalam tutorial.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Batas Waktu",
+                "list": [
+                    {
+                        "value": "Saat pertama kali membeli tema untuk dijadikan undangan, undangan tidak langsung memiliki batas waktu. Pelanggan harus memakai tema terlebih dahulu, barulah undangan memiliki batas waktu.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Batas waktu yang dibawarkan Ajakuy adalah 1 bulan, mulai dari tema dipakai sampai waktunya habis. Dalam kurun waktu tersebut pelanggan dapat mempersiapkan/mengisi undangan di halaman edit tema.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Selelah batas waktu habis, undangan akan otomatis ter-unpublish, baik pelangan atau orang lain tidak akan bisa melihat undangan tersebut.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Link",
+                "list": [
+                    {
+                        "value": "Agar tetap memenuhi syarat ketentuan bahwa link undangan yang didapat melalui Ajakuy, kami menghimbau pelanggan untuk tidak diedit atau dimodifikasi link, pelanggan akan mendapatkan link dengan format sebagai berikut:",
+                        "type": "text"
+                    },
+                    {
+                        "value": "https://ajakuy.com/undangan/55/putra-putri",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Kami menggunakan protokol web standar dan aman berformat https, yang aman dikunjugi oleh semua orang. Untuk nomor yang tertera di setiap undangan menandakan id khusus yang digunakan untuk mengidetifikasi kepemilikan undangan, yang formatnya tidak dapat diubah. Di ujung link aakan tertera nama depan masing-masing mempelai yang dibatasi oleh tanda (-)",
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Paket",
         "list": [
             {
