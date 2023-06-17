@@ -10,5 +10,6 @@
     { "name": "Roman", "type": "Premium", "status": true },
     { "name": "Violet", "type": "Premium", "status": true },
     { "name": "Mew", "type": "Standar", "status": true },
-    { "name": "Emoji", "type": "Standar", "status": true }
+    { "name": "Emoji", "type": "Standar", "status": true },
+    { "name": "Ellena", "type": "Premium", "status": true }
 ]
