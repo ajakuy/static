@@ -11,5 +11,15 @@
     { "name": "Violet", "type": "Premium", "status": true },
     { "name": "Mew", "type": "Standar", "status": true },
     { "name": "Emoji", "type": "Standar", "status": true },
-    { "name": "Ellena", "type": "Premium", "status": true }
+    { "name": "Ellena", "type": "Premium", "status": true },
+    { "name": "Aze", "type": "Premium", "status": true },
+    { "name": "Aurel", "type": "Premium", "status": true },
+    { "name": "Aurora", "type": "Premium", "status": true },
+    { "name": "Lua", "type": "Premium", "status": true },
+    { "name": "Sophia", "type": "Premium", "status": true },
+    { "name": "Nancy", "type": "Premium", "status": true },
+    { "name": "Eliana", "type": "Premium", "status": true },
+    { "name": "Lia", "type": "Premium", "status": true },
+    { "name": "Sinta", "type": "Premium", "status": true }
+
 ]
