@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Masa Tester",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Tester atau ujicoba merupakan program Ajakuy yang bertujuan untuk melakukan pemeriksaan terhadap kelayakan aplikasi sebelum dirilis perdana.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Toko Tester",
+                "list": [
+                    {
+                        "value": "Sebagai bentuk kontribusi pengguna dalam masa tester, Ajakuy akan membuka Toko Tester, pengguna yang berkesempatan memilih 5 tema gratis yang tersedia di Toko Tester.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Masa Berlangsung",
+                "list": [
+                    {
+                        "value": "Masa tester berlangsung kurang lebih satu bulan.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Cara Mendaftar",
+                "list": [
+                    {
+                        "value": "Selama masa tester, di halaman registrasi terdapat kolom centang `Tester`. Pengguna cukup mendaftar seperti biasa dan mencentang kolom Tester tersebut untuk dapat mengikuti program Tester.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Pendaftaran Tester harus dilakukan dengan cara registrasi biasa, dan mencentang kolom Tester, bukan dengan cara menekan tombol `Login dengan Google`",
+                        "type": "alert-info"
+                    }
+                ]
+            }
+        ]
+    }
+]
