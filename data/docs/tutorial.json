@@ -6,7 +6,7 @@
                 "title": "Tentang",
                 "list": [
                     {
-                        "value": "Edit langsung merupakan fitur utama yang ketika mengedit tema, sekaligus melihat tema secara langsung.",
+                        "value": "Edit langsung merupakan fitur utama yang dapat digunakan ketika mengedit tema, sekaligus melihat tema secara langsung.",
                         "type": "text"
                     },
                     {
@@ -36,7 +36,7 @@
                 "title": "Tambah Data",
                 "list": [
                     {
-                        "value": "Tambah data di tandai dengan ikon ( + ) yang muncul ketika mengedit tema, fitur ini digunakan untuk menambahkan kolom data, misalnya seperti menambah mempelai, alamat, kado, lokasi, dan sebagainya. Data yang ditambahkan memiliki jumlah maximal, ketika sudah mencapai batas maka ikon ( + ) tidak akan muncul.",
+                        "value": "Tambah data ditandai dengan ikon ( + ) yang muncul ketika mengedit tema, fitur ini digunakan untuk menambahkan kolom data, misalnya seperti menambah mempelai, alamat, kado, lokasi, dan sebagainya. Data yang ditambahkan memiliki jumlah maximal, ketika sudah mencapai batas maka ikon ( + ) tidak akan muncul.",
                         "type": "text"
                     },
                     {
@@ -110,6 +110,19 @@
                     },
                     {
                         "value": "Tidak semua komponen memiliki animasi, hanya yang terdapat ikon kotak saja.",
+                        "type": "alert-info"
+                    }
+                ]
+            },
+            {
+                "title": "Potong Gambar",
+                "list": [
+                    {
+                        "value": "Potong gambar adalah fitur yang tersedia ketika ingin mengedit gambar, tujuannya untuk menyesuaikan foto dengan bingkai yang tersedia. Kamu juga dapat melihat preview gambar dengan ukuran bingkainya.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Potong gambar saat ini hanya tersedia pada mode edit langsung.",
                         "type": "alert-info"
                     }
                 ]

@@ -17,6 +17,10 @@
                     {
                         "value": "Setelah berhasil mendaftarkan akun kamu dapat melihat daftar tema yang tersedia, kamu juga dapat melakukan pencarian tema. Klik tombol beli untuk memasukan tema ke dalam keranjang, maka akan muncul notif angka pada menu keranjang.",
                         "type": "text"
+                    },
+                    {
+                        "value": "how_to_buy_1",
+                        "type": "img"
                     }
                 ]
             },
@@ -24,24 +28,50 @@
                 "title": "Checkout",
                 "list": [
                     {
-                        "value": "Pada halaman keranjang, kamu akan melihat tema yang sudah kamu pilih. Di sini kamu daapat menghapus tema, jika ingin melanjutkan klik centeng chckout, lalu klik tombol lanjut.",
+                        "value": "Pada halaman keranjang, kamu akan melihat tema yang sudah kamu pilih. Di sini kamu juga dapat menghapus tema jika kamu salah pilih, atau memilih promo jika punya. Kamu belum dimintai informasi pembayaran pada tahap ini, jadi silakan klik tombol checkout.",
                         "type": "text"
                     },
                     {
-                        "value": "Di halaman berikutnya terdapat jenis pembayaran, untuk saat ini hanya tersedia via Manual. Klik tombol manual, lalu klik lanjut.",
+                        "value": "how_to_buy_2",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Bayar",
+                "list": [
+                    {
+                        "value": "Setelah melakukan checkout kamu akan dialikan ke halaman transaksi. Status transaski masih pending, kamu hanya perlu menekan tombol Bayar Sekarang.",
                         "type": "text"
                     },
                     {
-                        "value": "Tahap selanjutnya adalah kamu harus mentransfer pembayaran melalui daftar transaksi yang tersedia, kemudian upload buktinya transfernya di tempat yang sudah disediakan. Pengecekan akan dilakukan oleh admin.",
+                        "value": "how_to_buy_3",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Akan muncul popup macam-macam pembayaran yang tersedia, dan melakukan proses transaksi.",
                         "type": "text"
                     },
                     {
-                        "value": "Tahap terakhir kamu hanya perlu menekan tombol submit, transaksi akan diproses, kamu juga akan mendapatkan kuitansi pembayaran melalui e-mail.",
+                        "value": "how_to_buy_4",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Jika sudah menekan tombol bayar, tunggu beberapa saat, akan muncul notifikasi sukses.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Bukti Invoice",
+                "list": [
+                    {
+                        "value": "Setelah transakasi sukses, invoice dapat diunduh dalam format PDF, dan akan selalu ada di halaman transaski. Bukti invoice dapat dilampirkan pelanggan jika pelanggan ingin mengajukan keluhan yang berkaitan tentang transaski tersebut.",
                         "type": "text"
                     },
                     {
-                        "value": "Untuk memeriksa status transaski kamu dapat pergi ke menu transaksi",
-                        "type": "text"
+                        "value": "how_to_buy_5",
+                        "type": "img"
                     }
                 ]
             },
@@ -49,7 +79,7 @@
                 "title": "Bantuan",
                 "list": [
                     {
-                        "value": "Jika kamu merasa proses menunggu konfirmasi admin terlalu lama, atau terdaapat masalah saat mengupload bukti transfer, kamu dapat menghubungi admin lewat whatsapp yang sudah disediakan di halaman transaksi.",
+                        "value": "Jika terjadi masalah selama proses transaski berlangsung, kamu dapat langsung menghubungi admin.",
                         "type": "text"
                     }
                 ]

@@ -6,7 +6,7 @@
                 "title": "Tentang",
                 "list": [
                     {
-                        "value": "Semua tema yang berasal dari ajakuy, harus mengatas namakan nama Ajakuy tanpa terkecuali. Pembelian tema yang sah hanya dapat melalui website dan layanan Ajakuy.",
+                        "value": "Semua tema yang berasal dari Ajakuy harus menggunakan nama Ajakuy tanpa terkecuali. Pembelian tema yang sah hanya dapat dilakukan melalui website dan layanan Ajakuy.",
                         "type": "text"
                     }
                 ]
@@ -16,7 +16,7 @@
                 "title": "Standar",
                 "list": [
                     {
-                        "value": "Tema standar mencakup kebutuhan umum, untuk undangan pernikahan, umumnya didesain dengan gaya simple dan sederhana namun tetap terlihat menarik.",
+                        "value": "Tema standar mencakup kebutuhan umum untuk undangan pernikahan. Umumnya, tema ini didesain dengan gaya sederhana namun tetap terlihat menarik.",
                         "type": "text"
                     }
                 ]
@@ -26,7 +26,7 @@
                 "title": "Premium",
                 "list": [
                     {
-                        "value": "Jenis tema ini memiliki semua fitur yang ada di paket standar, dan menambahkan beberapa fitur unggulan tambahan, tampilan tema juga terlihat lebih elegan dan menarik, jugs memiliki harga yang tidak jauh hemat dari tema standar",
+                        "value": "Jenis tema ini memiliki semua fitur yang ada di paket standar, dan menambahkan beberapa fitur unggulan tambahan. Tampilan tema juga terlihat lebih elegan dan menarik, serta memiliki harga yang tidak jauh berbeda dari tema standar.",
                         "type": "text"
                     }
                 ]
@@ -40,7 +40,7 @@
                 "title": "Tentang",
                 "list": [
                     {
-                        "value": "Undangan merupakan tema yang akan diisi oleh informasi-informasi pelanggan, sesuai keinginan mereka. Dan harus mengikuti template tema yang tersedia, seperti yang sudah dijelaskan dalam tutorial.",
+                        "value": "Undangan merupakan tema yang akan diisi oleh informasi-informasi pelanggan sesuai keinginan mereka. Dan harus mengikuti template tema yang tersedia, seperti yang sudah dijelaskan dalam tutorial.",
                         "type": "text"
                     }
                 ]
@@ -49,15 +49,15 @@
                 "title": "Batas Waktu",
                 "list": [
                     {
-                        "value": "Saat pertama kali membeli tema untuk dijadikan undangan, undangan tidak langsung memiliki batas waktu. Pelanggan harus memakai tema terlebih dahulu, barulah undangan memiliki batas waktu.",
+                        "value": "Saat pertama kali membeli tema untuk dijadikan undangan, undangan tidak langsung memiliki batas waktu. Pelanggan harus memakai tema terlebih dahulu, baru undangan akan memiliki batas waktu.",
                         "type": "text"
                     },
                     {
-                        "value": "Batas waktu yang dibawarkan Ajakuy adalah 1 bulan, mulai dari tema dipakai sampai waktunya habis. Dalam kurun waktu tersebut pelanggan dapat mempersiapkan/mengisi undangan di halaman edit tema.",
+                        "value": "Batas waktu yang ditawarkan oleh Ajakuy adalah 1 bulan, mulai dari tema digunakan sampai batas waktu habis. Dalam kurun waktu tersebut, pelanggan dapat mempersiapkan/mengisi undangan di halaman edit tema.",
                         "type": "text"
                     },
                     {
-                        "value": "Selelah batas waktu habis, undangan akan otomatis ter-unpublish, baik pelangan atau orang lain tidak akan bisa melihat undangan tersebut.",
+                        "value": "Setelah batas waktu habis, undangan akan otomatis ter-unpublish. Baik pelanggan maupun orang lain tidak akan bisa melihat undangan tersebut.",
                         "type": "text"
                     }
                 ]
@@ -66,7 +66,7 @@
                 "title": "Link",
                 "list": [
                     {
-                        "value": "Agar tetap memenuhi syarat ketentuan bahwa link undangan yang didapat melalui Ajakuy, kami menghimbau pelanggan untuk tidak diedit atau dimodifikasi link, pelanggan akan mendapatkan link dengan format sebagai berikut:",
+                        "value": "Agar tetap memenuhi syarat dan ketentuan bahwa link undangan yang diperoleh melalui Ajakuy, kami menghimbau pelanggan untuk tidak mengedit atau memodifikasi link. Pelanggan akan mendapatkan link dengan format berikut:",
                         "type": "text"
                     },
                     {
@@ -74,7 +74,7 @@
                         "type": "text"
                     },
                     {
-                        "value": "Kami menggunakan protokol web standar dan aman berformat https, yang aman dikunjugi oleh semua orang. Untuk nomor yang tertera di setiap undangan menandakan id khusus yang digunakan untuk mengidetifikasi kepemilikan undangan, yang formatnya tidak dapat diubah. Di ujung link aakan tertera nama depan masing-masing mempelai yang dibatasi oleh tanda (-)",
+                        "value": "Kami menggunakan protokol web standar dan aman berformat https, yang aman dikunjungi oleh semua orang. Nomor yang tertera di setiap undangan menandakan id khusus yang digunakan untuk mengidentifikasi kepemilikan undangan. Formatnya tidak dapat diubah. Di ujung link akan tertera nama depan masing-masing mempelai yang dibatasi oleh tanda (-)",
                         "type": "text"
                     }
                 ]
@@ -88,7 +88,7 @@
                 "title": "Tentang",
                 "list": [
                     {
-                        "value": "Kami menyediakan layanan paket paket langganan. Paket ini lebih dikususkan untuk para pelanggan yang ingin membeli tema untuk dijual lagi, tidak terkecuali secara perorangan. Dengan membeli paket, pelanggan dapat memilih tema apa saja tanpa terbatas ketetuan pada setiap paket.",
+                        "value": "Kami menyediakan layanan paket langganan. Paket ini lebih ditujukan untuk pelanggan yang ingin membeli tema untuk dijual lagi, termasuk secara perorangan. Dengan membeli paket, pelanggan dapat memilih tema apa saja tanpa terbatas ketentuan pada setiap paket.",
                         "type": "text"
                     }
                 ]
@@ -97,7 +97,7 @@
                 "title": "Isi",
                 "list": [
                     {
-                        "value": "Setiap paket memiliki isi berupa tema, yang berbeda-beda tergantung setiap paket. Pelanggan dapat melihat preview setiap isi paket, dan informasi-informasi lain yang lebih detail.",
+                        "value": "Setiap paket memiliki isi berupa tema yang berbeda-beda tergantung setiap paket. Pelanggan dapat melihat preview setiap isi paket dan informasi-informasi lain yang lebih detail.",
                         "type": "text"
                     }
                 ]
@@ -106,7 +106,7 @@
                 "title": "Batas Waktu",
                 "list": [
                     {
-                        "value": "Setiap paket memiliki batas waktu masing-masing, terhitung sejak pertama kali paket tersebut dibeli. Tiap paket memiliki masa kadaluarsa yang berbeda-beda.",
+                        "value": "Setiap paket memiliki batas waktu masing-masing, yang terhitung sejak pertama kali paket tersebut dibeli. Tiap paket memiliki masa kadaluarsa yang berbeda-beda.",
                         "type": "text"
                     }
                 ]
@@ -115,7 +115,7 @@
                 "title": "Limit Pemakaian",
                 "list": [
                     {
-                        "value": "Limit pemakian berarti pelanggan akan dibatasi untuk memakai tema dalam paket yang sudah dibeli, misalnya 1000 pemakaian tema, jumlah batasan tema tergantung dari ketentuan tiap-tiap paket.",
+                        "value": "Limit pemakaian berarti pelanggan akan dibatasi dalam menggunakan tema dalam paket yang sudah dibeli. Misalnya, 1000 pemakaian tema, jumlah batasan tema tergantung pada ketentuan masing-masing paket.",
                         "type": "text"
                     }
                 ]
@@ -124,7 +124,7 @@
                 "title": "Perulangan Harga",
                 "list": [
                     {
-                        "value": "Perulangan harga berarti jika pelanggan ingin menambah batas wkatu paket, harga yang ditawarkan akan berbeda, bisa sedikit naik atau turun tergantung ketentuan di tiap-tiap paket",
+                        "value": "Perulangan harga berarti jika pelanggan ingin menambah batas waktu paket, harga yang ditawarkan akan berbeda. Harga bisa sedikit naik atau turun tergantung pada ketentuan dalam masing-masing paket.",
                         "type": "text"
                     }
                 ]
@@ -133,16 +133,15 @@
                 "title": "Hak",
                 "list": [
                     {
-                        "value": "Pelanggan yang berlanggan paket mendapat hak khusus untuk menjual kembali undangan Ajakuy menjadi jasa, dengan mengatas namakan Ajakuy.",
+                        "value": "Pelanggan yang berlangganan paket mendapatkan hak khusus untuk menjual kembali undangan Ajakuy sebagai jasa, dengan menggunakan nama Ajakuy.",
                         "type": "text"
                     },
                     {
-                        "value": "Meskipun mendapat hak untuk menjual undangan kepada orang lain, tetapi prosesnya harus dan wajib dilakukan dalam website Ajakuy, tidak bisa dengan mengambil tema, untuk ditaruh di website lain.  Mengedit link undangan tidak mengastas namakan Ajakuy sangat dilarang.",
+                        "value": "Meskipun mendapatkan hak untuk menjual undangan kepada orang lain, prosesnya harus dilakukan dalam website Ajakuy. Tidak diperbolehkan mengambil tema untuk ditempatkan di website lain. Mengedit link undangan dengan tujuan mengatasnamakan Ajakuy sangat dilarang.",
                         "type": "alert-info"
                     }
                 ]
             }
-
         ]
     },
     {
@@ -152,7 +151,7 @@
                 "title": "Tentang",
                 "list": [
                     {
-                        "value": "Testimoni adalah bentuk review yang diberikan kepada pelanggan untuk ajakuy, setiap pembelian tema. Sifatnya tidak wajib, namun jika pelanggan bersedia mengisi testimoni pelanggan akan mendapat Poin Ajakuy.",
+                        "value": "Testimoni adalah bentuk review yang diberikan kepada pelanggan Ajakuy setelah setiap pembelian tema. Sifatnya tidak wajib, namun jika pelanggan bersedia mengisi testimoni, mereka akan mendapatkan Poin Ajakuy.",
                         "type": "text"
                     }
                 ]
@@ -166,7 +165,7 @@
                 "title": "Tentang",
                 "list": [
                     {
-                        "value": "Ajakuy memiliki sistem reward, berisi diskon-diskon yang dapat dipakai untuk pembelian di dalam Ajakuy, untuk mendapatkan hadiah-hadiah tersebut diperlukan poin.",
+                        "value": "Ajakuy memiliki sistem reward yang berisi diskon-diskon yang dapat digunakan untuk pembelian di dalam Ajakuy. Untuk mendapatkan hadiah-hadiah ini, diperlukan Poin Ajakuy.",
                         "type": "text"
                     }
                 ]
@@ -176,7 +175,7 @@
                 "title": "Poin",
                 "list": [
                     {
-                        "value": "Poin Ajakuy bersifat pribadi, dan dapat bertambah setelah pelanggan memberikan testimoni ke undangan yang sudah dibeli. Poin ini dapat ditukarkan dengan promo khusus yang hanya bisa didapat dengan cara menukarkan poin.  Poin hanya terkait pada diskon pembelian tema dalam website Ajakuy.",
+                        "value": "Poin Ajakuy bersifat pribadi dan dapat bertambah setelah pelanggan memberikan testimoni pada undangan yang sudah dibeli. Poin ini dapat ditukarkan dengan promo khusus yang hanya bisa diperoleh dengan menukarkan poin. Poin hanya terkait dengan diskon pembelian tema di website Ajakuy.",
                         "type": "text"
                     }
                 ]
@@ -186,7 +185,7 @@
                 "title": "Milestones",
                 "list": [
                     {
-                        "value": "Milestones adalah sistem reward yang dipakai Ajakuy, misalnya di dalam suatu reward terdapat milestrone sebagai berikut:",
+                        "value": "Milestones adalah sistem reward yang digunakan oleh Ajakuy. Misalnya, dalam suatu reward terdapat milestones sebagai berikut:",
                         "type": "text"
                     },
                     {
@@ -198,11 +197,11 @@
                         "type": "list"
                     },
                     {
-                        "value": "Setiap kali point user menyentuh angka lebih dari point-point tersebut maka pelanggan dapat menukar pointnya dengan promo. Misalnya ketika poin pelanggan mencapai 1000 maka pelanggan dapat menukar dengan promo iskon 5% dan 10%",
+                        "value": "Setiap kali poin pengguna mencapai angka lebih tinggi dari poin-poin tersebut, pengguna dapat menukarkan poinnya dengan promo. Misalnya, jika poin pengguna mencapai 1000, pengguna dapat menukar dengan promo diskon 5% dan 10%.",
                         "type": "text"
                     },
                     {
-                        "value": "Daftar milestones dalam tiap-tiap reward dan hadiahnya berbeda-beda, pelanggan bebas memilih reward mana yang ingin mereka ikuti.",
+                        "value": "Daftar milestones dalam tiap-tiap reward dan hadiahnya berbeda-beda. Pelanggan bebas memilih reward mana yang ingin mereka ikuti.",
                         "type": "text"
                     }
                 ]
@@ -211,7 +210,7 @@
                 "title": "Jumlah",
                 "list": [
                     {
-                        "value": "Pelanggan, hanya dapat mengikuti 1 reward saja, tapi pelanggan dapat juga berpindah reward ke reward lain, dengan catatan poin sebelumnya akan diulangi dari 0.",
+                        "value": "Pelanggan hanya dapat mengikuti 1 reward saja, namun mereka dapat juga beralih dari satu reward ke reward lainnya. Poin sebelumnya akan direset menjadi 0 saat berpindah reward.",
                         "type": "text"
                     }
                 ]
@@ -220,11 +219,11 @@
                 "title": "Ulang",
                 "list": [
                     {
-                        "value": "Ketika pelanggan sudah mencapai batas akhir poin yang di dalam milestrone, misalnya 2000 Poin, pelanggan dapat mengulangi reward dari awal untuk mendapat hadiah yang sama, dan hadiah yang sudah di-klaim akan tetap tersimpan.",
+                        "value": "Ketika pelanggan sudah mencapai batas poin tertinggi dalam suatu milestone, misalnya 2000 Poin, mereka dapat mengulangi reward dari awal untuk mendapatkan hadiah yang sama. Hadiah yang sudah diklaim akan tetap tersimpan.",
                         "type": "text"
                     },
                     {
-                        "value": "Selalu perhatikan tanggal kadaluarsa sebelum memutuskan untuk mengulangi reward, karena pelanggan tidak dapat mengikuti reward yang sudah kadaluarsa.",
+                        "value": "Selalu perhatikan tanggal kadaluarsa sebelum memutuskan untuk mengulangi reward, karena pelanggan tidak dapat mengikuti reward yang sudah kedaluwarsa.",
                         "type": "alert-warning"
                     }
                 ]
@@ -233,11 +232,11 @@
                 "title": "Ganti",
                 "list": [
                     {
-                        "value": "Pelanggan yang sedang mengikuti satu reward, dapat berganti ke reward lainnya, tetapi dengan catatn poin yang sudah dikumpulkan pada reward sebelumnya akan hangus.",
+                        "value": "Pelanggan yang sedang mengikuti satu reward, dapat beralih ke reward lainnya. Namun poin yang sudah dikumpulkan pada reward sebelumnya akan hilang.",
                         "type": "text"
                     },
                     {
-                        "value": "Namun, adapun konsisi unik yang mungkin mengharuskan pelanggan untuk berganti reward, seperti pelanggan belum mendapat hasil dari reward yang sedang dia ikuti, dan di hari yang sama muncul reward baru yang menurutnya lebih menguntungkan, maka pelanggan dapat lengsung berlaih ke rewad baru.",
+                        "value": "Namun, ada kondisi unik yang mungkin mengharuskan pelanggan beralih reward, seperti pelanggan belum mendapatkan hasil dari reward yang sedang diikuti, dan di hari yang sama muncul reward baru yang menurut mereka lebih menguntungkan. Maka pelanggan dapat langsung beralih ke reward baru tersebut.",
                         "type": "text"
                     }
                 ]
@@ -251,7 +250,7 @@
                 "title": "Tentang",
                 "list": [
                     {
-                        "value": "Promo adalah cara pelanggan mendapat potongan diskon ketike membeli tema, promo terbagi menjadi 2 macam, yaitu promo publik dan pribadi.",
+                        "value": "Promo adalah cara pelanggan mendapatkan potongan diskon saat membeli tema. Promo terbagi menjadi 2 macam, yaitu promo publik dan pribadi.",
                         "type": "text"
                     }
                 ]
@@ -260,7 +259,7 @@
                 "title": "Publik",
                 "list": [
                     {
-                        "value": "Promo publik adalah promo yang dapat diakses oleh semua orang, memiliki batas waktu, jumlah maksimal orang yang dapat mengklaim promo tersebut. Promo ini berada di halaman promo yang berada di halamam beranda.",
+                        "value": "Promo publik adalah promo yang dapat diakses oleh semua orang, memiliki batas waktu, dan jumlah maksimal orang yang dapat mengklaim promo tersebut. Promo ini terdapat di halaman promo yang berada di halaman beranda.",
                         "type": "text"
                     }
                 ]
@@ -269,7 +268,7 @@
                 "title": "Pribadi",
                 "list": [
                     {
-                        "value": "Promo pribadi didapatkan user dengan cara mengklaim promo yang ada di dalam reward, jenis promo ini kebanyakan tidak memiliki masa berlaku, sehingga akan permanen tersimpan oleh user. Keunggulan lainnya dari promo ini, yaitu dapat dipakai saat perpanjangan masa paket.",
+                        "value": "Promo pribadi didapatkan oleh pengguna dengan cara mengklaim promo yang ada di dalam reward. Jenis promo ini kebanyakan tidak memiliki masa berlaku, sehingga akan tersimpan secara permanen oleh pengguna. Keunggulan lainnya dari promo ini adalah dapat digunakan saat perpanjangan masa paket.",
                         "type": "text"
                     }
                 ]
