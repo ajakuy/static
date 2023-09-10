@@ -238,6 +238,131 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Suvenir",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Suvenir adalah fitur yang memungkinkan pelanggan mengatur souvenir yang ingin diberikan kepada para tamu yang terdaftar. Melalui Ajakuy, kamu dapat dengan mudah memanajemen hal tersebut.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Tujuan",
+                "list": [
+                    {
+                        "value": "Dengan mengatur tamu-tamu mana saja yang diprediksi akan datang ke acara pernikahan untuk mendapat suvenir, pelanggan dapat meminimalisir pengeluaran untuk membeli suvenir untuk para tamu.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Dengan memprediksi jumlah suvenir yang tepat, pelanggan tidak perlu khawatir akan kekurangan atau kelebihan jumlah suvenir.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Letak",
+                "list": [
+                    {
+                        "value": "Menu suvenir terletak di halaman undangan/tema, yang telah terpakai. Dengan menekan tombol Tamu, kamu akan langsung diarahkan ke halaman pengaturan suvenir.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_1",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Tambah Tamu",
+                "list": [
+                    {
+                        "value": "langkah pertama yang harus kamu lakukan adalah menginput data Tamu, dengan mengisi nama dan nomor telepon/WA. Maka listnya akan tampil di sebelah kanan setelah kamu menginput data. Data tersebut dapat diatur lagi, baik diedit atau dihapus jika kamu salah menginput.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Atau kamu dapat mengungah file VCF, yaitu file yang berisi daftar kontak-kontak telepon, dengan mengupload VCF kamu dapat langsung menginput semua kontak yang kamu punya secara bersamaan.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_2",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Tambah Suvenir",
+                "list": [
+                    {
+                        "value": "Setelah daftar tamu ditambahkan, kamu dapat bergeser ke tab Suvenir di sebelah kanan. Di sana kamu dapat menginput data suvenir apa saja yang tersedia.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Setelah disubmit, daftar suvenir akan muncul di kiri bawah. Kamu sekarang dapat menentukan tamu mana yang mendapat suvenir tertentu. Hanya dengan memilih tamu, dan kolom pilihan suvenir akan muncul di atasnya.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Contoh di bawah menandakan tamu 1, nantinya akan mendapat suvenir berupa Gelas Lucu.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_3",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "QR Tamu",
+                "list": [
+                    {
+                        "value": "QR tamu adalah cara tamu untuk mengklaim hadiahnya. Jika kamu adalah mempelai yang mengatur undanganmu sendiri, kamu dapat meminta pada percetakan undangan untuk menaruh QR kode tersebut di undangan cetakmu. Jika kamu percetakan yang menggunakan jasa Ajakuy, kamu hanya perlu membina klienmu mengenai fitur ini.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_4",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Jika kamu menggunakan fitur suvenir, di halaman depan undangan digitalmu akan ada tombol klaim suvenir, yang dapat digunakan oleh para tamu untuk mengklaim suvenir mereka. Setelah dibuka akan menampilkan kamera dalam undangan, yang dapat digunakan oleh tamu untuk meng-scan kode QR mereka.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_5",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Status",
+                "list": [
+                    {
+                        "value": "Jika para tamu telah mengklaim suvenir mereka, lis merah di daftar tamu akan berubah menjadi hijau. Seperti contoh TAMU 2 di bawah.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_6",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Laporan",
+                "list": [
+                    {
+                        "value": "Kamu juga dapat mengunduh laporan suvenir, laporan ini bertujuan untuk memberikan kamu data-data lengkap yang berkaitan tantang suvenir. Jika kamu percetakan yang menggunakan jasa Ajakuy, kamu juga dapat langsung memberikan laporan ini pada klien.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_7",
+                        "type": "img"
+                    }
+                ]
+            }
+        ]
     }
 
 ]
