@@ -10,24 +10,6 @@
                         "type": "text"
                     }
                 ]
-            },
-            {
-                "title": "Visi",
-                "list": [
-                    {
-                        "value": "Visi kami adalah",
-                        "type": "text"
-                    }
-                ]
-            },
-            {
-                "title": "Misi",
-                "list": [
-                    {
-                        "value": "Misi kami adalah",
-                        "type": "text"
-                    }
-                ]
             }
         ]
     }

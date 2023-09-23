@@ -66,15 +66,23 @@
                 "title": "Link",
                 "list": [
                     {
-                        "value": "Agar tetap memenuhi syarat dan ketentuan bahwa link undangan yang diperoleh melalui Ajakuy, kami menghimbau pelanggan untuk tidak mengedit atau memodifikasi link. Pelanggan akan mendapatkan link dengan format berikut:",
+                        "value": "Link undangan Ajakuy dapat diedit seusai dengan yang diinginkan pelanggan, tetapi terdapat beberapa batasan antara lain:",
                         "type": "text"
                     },
                     {
-                        "value": "https://ajakuy.com/undangan/55/putra-putri",
+                        "value": [
+                            "Hanya dapat diedit 1 minggu sekali",
+                            "Pengeditan bersifat minor, artinya hanya dapat memperbaiki huruf yang salah ketik",
+                            "2000 Poin - Diskon 30%"
+                        ],
+                        "type": "list"
+                    },
+                    {
+                        "value": "Contoh link: https://ajakuy.com/undangan/9/putra-putri. Angka yang terdapat ditengah link merupakan id unik, yang sifatnya tidak dapat diubah",
                         "type": "text"
                     },
                     {
-                        "value": "Kami menggunakan protokol web standar dan aman berformat https, yang aman dikunjungi oleh semua orang. Nomor yang tertera di setiap undangan menandakan id khusus yang digunakan untuk mengidentifikasi kepemilikan undangan. Formatnya tidak dapat diubah. Di ujung link akan tertera nama depan masing-masing mempelai yang dibatasi oleh tanda (-)",
+                        "value": "Kami juga menggunakan protokol web standar dan aman berformat https, yang aman dikunjungi oleh semua orang.",
                         "type": "text"
                     }
                 ]
