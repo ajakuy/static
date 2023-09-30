@@ -2,16 +2,16 @@
     {
         "img": "banner_package",
         "text": "",
-        "url": "/toko/"
+        "url": "/user/toko/paket"
     },
     {
         "img": "banner_point",
         "text": "",
-        "url": "/"
+        "url": "/user/profil"
     },
     {
         "img": "banner_tutorial",
         "text": "",
-        "url": "/"
+        "url": "/tutorial"
     }
 ]
