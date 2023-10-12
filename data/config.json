@@ -1,4 +1,5 @@
 {
     "tester": true,
+    "testerEndDate": "2023-12-31",
     "maintenance": false
 }
