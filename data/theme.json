@@ -22,6 +22,8 @@
     { "name": "Nancy", "type": "Standar", "status": true },
     { "name": "Eliana", "type": "Premium", "status": true },
     { "name": "Lia", "type": "Premium", "status": true },
-    { "name": "Sinta", "type": "Standar", "status": true }
+    { "name": "Sinta", "type": "Standar", "status": true },
+
+    { "name": "Sakura", "type": "Premium", "status": true }
 
 ]
