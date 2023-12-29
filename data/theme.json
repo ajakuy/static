@@ -25,6 +25,10 @@
     { "name": "Sinta", "type": "Standar", "status": true },
 
     { "name": "Sakura", "type": "Premium", "status": true },
-    { "name": "Emy", "type": "Premium", "status": true }
+    { "name": "Emy", "type": "Premium", "status": true },
+    { "name": "Krone", "type": "Premium", "status": true },
+    { "name": "Paper", "type": "Premium", "status": true },
+    { "name": "Emilico", "type": "Premium", "status": true }
+
 
 ]
