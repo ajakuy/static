@@ -24,11 +24,15 @@
     { "name": "Lia", "type": "Premium", "status": true },
     { "name": "Sinta", "type": "Standar", "status": true },
 
-    { "name": "Sakura", "type": "Premium", "status": true },
+    { "name": "Sakura", "type": "Standar", "status": true },
     { "name": "Emy", "type": "Premium", "status": true },
     { "name": "Krone", "type": "Premium", "status": true },
-    { "name": "Paper", "type": "Premium", "status": true },
-    { "name": "Emilico", "type": "Premium", "status": true }
-
+    { "name": "Paper", "type": "Standar", "status": true },
+    { "name": "Emilico", "type": "Premium", "status": true },
+    { "name": "Anastasia", "type": "Standar", "status": true },
+    { "name": "Zephyra", "type": "Premium", "status": true },
+    { "name": "Daisy", "type": "Premium", "status": true },
+    { "name": "Seinna", "type": "Standar", "status": true },
+    { "name": "Amelie", "type": "Standar", "status": true }
 
 ]
