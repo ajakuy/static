@@ -24,7 +24,7 @@
     { "name": "Lia", "type": "Premium", "status": true },
     { "name": "Sinta", "type": "Standar", "status": true },
 
-    { "name": "Sakura", "type": "Standar", "status": true },
+    { "name": "Sakura", "type": "Premium", "status": true },
     { "name": "Emy", "type": "Premium", "status": true },
     { "name": "Krone", "type": "Premium", "status": true },
     { "name": "Paper", "type": "Standar", "status": true },
