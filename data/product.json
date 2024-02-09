@@ -4,6 +4,10 @@
         "price": 80000
     },
     {
+        "title": "Krone",
+        "price": 80000
+    },
+    {
         "title": "Natura",
         "price": 50000
     },
@@ -16,15 +20,11 @@
         "price": 50000
     },
     {
-        "title": "Sophia",
+        "title": "Emilico",
         "price": 80000
     },
     {
         "title": "Aurora",
-        "price": 80000
-    },
-    {
-        "title": "Krone",
         "price": 80000
     }
 ]
