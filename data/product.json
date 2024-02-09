@@ -1,17 +1,30 @@
 [
     {
-        "title": "Amelly"
+        "title": "Amelly",
+        "price": 80000
     },
     {
-        "title": "Emy"
+        "title": "Natura",
+        "price": 50000
     },
     {
-        "title": "Aurora"
+        "title": "Emy",
+        "price": 80000
     },
     {
-        "title": "Sophia"
+        "title": "Love",
+        "price": 50000
     },
     {
-        "title": "Krone"
+        "title": "Sophia",
+        "price": 80000
+    },
+    {
+        "title": "Aurora",
+        "price": 80000
+    },
+    {
+        "title": "Krone",
+        "price": 80000
     }
 ]
