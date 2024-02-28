@@ -11,7 +11,6 @@
                     }
                 ]
             },
-
             {
                 "title": "Standar",
                 "list": [
@@ -21,7 +20,6 @@
                     }
                 ]
             },
-
             {
                 "title": "Premium",
                 "list": [
@@ -178,7 +176,6 @@
                     }
                 ]
             },
-
             {
                 "title": "Poin",
                 "list": [
@@ -188,7 +185,6 @@
                     }
                 ]
             },
-
             {
                 "title": "Milestones",
                 "list": [
@@ -277,6 +273,67 @@
                 "list": [
                     {
                         "value": "Promo pribadi didapatkan oleh pengguna dengan cara mengklaim promo yang ada di dalam reward. Jenis promo ini kebanyakan tidak memiliki masa berlaku, sehingga akan tersimpan secara permanen oleh pengguna. Keunggulan lainnya dari promo ini adalah dapat digunakan saat perpanjangan masa paket.",
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Notif",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Notif merupakan fitur Ajakuy yang digunakan untuk mengirim pesan kepada para tamu undangan melalui whatsapp blast.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Berkaitan dengan whatsapp, yang merupakan pihak di luar Ajakuy, kami menegaskan bahwa kami sama sekali tidak bertanggungjawab akan hal-hal yang dapat terjadi selama proses pengiriman whatsapp, termasuk banned dari whatsapp.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Pengguna sadar dan sepenuhnya menyetujui hal tersebut ketika menggunakan fitur notif.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Konsep",
+                "list": [
+                    {
+                        "value": "Ajakuy menggunakan layanan unofficial whatsapp, sehingga masih ada kemungkinan melanggar kecil. Namun, untuk meminimalisir hal tersebut, kami menggunakan konsep broadcast atau siaran.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Siaran yang dimaksud adalah pesan yang dikirimkan kepada tiap 100 tamu secara bertahap selama 30 menit sekali, dalam kurun waktu 8:00 - 15:00 WIB.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Akun Whatsapp",
+                "list": [
+                    {
+                        "value": "Untuk mengirim pesan, pengguna harus menggunakan akun pribadi. Tidak dapat diwakilkan oleh Ajakuy atau pihak manapun.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Hal ini bertujuan untuk menghindari kesalahpahaman, hoax, atau modus penipuan.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Selain itu, mengirim pesan menggunakan nomor pribadi dapat meminimalisir reisiko ter-banned whatsapp, karena nomor tersebut adalah nomor yang pernah berinteraksi dengan para tamu.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Branding",
+                "list": [
+                    {
+                        "value": "Ajakuy akan menaruh link branding di bagian bawah pesan yang akan terkirim `Undangan via ajakuy.com`.",
                         "type": "text"
                     }
                 ]

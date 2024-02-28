@@ -281,7 +281,7 @@
                 "title": "Tambah Tamu",
                 "list": [
                     {
-                        "value": "langkah pertama yang harus kamu lakukan adalah menginput data Tamu, dengan mengisi nama dan nomor telepon/WA. Maka listnya akan tampil di sebelah kanan setelah kamu menginput data. Data tersebut dapat diatur lagi, baik diedit atau dihapus jika kamu salah menginput.",
+                        "value": "Langkah pertama yang harus kamu lakukan adalah menginput data Tamu, dengan mengisi nama dan nomor telepon/WA. Maka listnya akan tampil di sebelah kanan setelah kamu menginput data. Data tersebut dapat diatur lagi, baik diedit atau dihapus jika kamu salah menginput.",
                         "type": "text"
                     },
                     {
@@ -358,6 +358,150 @@
                     },
                     {
                         "value": "souvenir_7",
+                        "type": "img"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Notif",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Fitur ini memungkinkan kamu mengirim pesan whatsapp ke banyak orang. Sebelum dapat mengakses fitur ini, undangan kamu harus ter-publish dan memiliki link.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Sebelum menggunakan fitur ini kamu telah setuju dan paham tentang kebijakan Ajakuy, bahwa kami sama sekali tidak bertanggung jawab jika terjadi hal-hal selama proses, termasuk ter-banned dari whatsapp.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Ajakuy juga tidak dapat melihat informasi pribadi, pesan, atau apa pun di Whatsapp klien. Fitur ini hanya digunakan untuk mengirim pesan, bukan melihat informasi pribadi klien.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Tambah Tamu",
+                "list": [
+                    {
+                        "value": "Langkah pertama yang harus kamu lakukan adalah menginput data Tamu, dengan mengisi nama dan nomor WA. Maka listnya akan tampil di sebelah kanan setelah kamu menginput data. Data tersebut dapat diatur lagi, baik diedit atau dihapus jika kamu salah menginput.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Atau kamu dapat mengungah file VCF, yaitu file yang berisi daftar kontak-kontak telepon, dengan mengupload VCF kamu dapat langsung menginput semua kontak yang kamu punya secara bersamaan.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "souvenir_2",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Edit Nomor WA dan Pesan",
+                "list": [
+                    {
+                        "value": "Selanjutnya, kamu diharuskan mengisi nomor WA pribadi, dan menulis pesan, yang akan dikirimkan ke semua. Jika sudah, klik simpan.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "notif_1",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Nomor WA pribadi hanya dapat diisi sekali, pastikan mengisinya dengan benar.",
+                        "type": "alert-info"
+                    }
+                ]
+            },
+            {
+                "title": "Login WA",
+                "list": [
+                    {
+                        "value": "Setelah berhasil menyimpan nomor dan pesan, akan muncul tombol login wa.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "notif_2",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Setelah diklik, akan muncul pop-up berupa pilihan jenis login, antara QR atau Kode. Saat tombol tampilkan diklik akan memunculkan QR/Kode.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "notif_3",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Untuk login melalui QR buka WA kamu, buka setelan WA kamu, klik logo QR, klik pindai kode. Lalu pindai kode yang tersedia.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "notif_4",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Jika login melalui Kode, akan menampilkan deretan kode unik. Kemudian Whatsapp akan mengirimkan notifikasi ke ponsel kamu untuk mengisi kode unik tersebut.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "notif_5",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Jika Whatsapp sudah memberikan notif sukses login, baik login melalui QR atau Kode, kamu dapat menutup pop-up.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Proses login WA berlangsung cepat, tidak lebih dari semenit. Pastikan kamu mempersiapkan ponsel untuk memindai QR dan mengetik kode.",
+                        "type": "alert-warning"
+                    }
+                ]
+            },
+            {
+                "title": "Testing",
+                "list": [
+                    {
+                        "value": "Jika kamu masih ragu melakukan siaran notif kepada banyak tamu, dan kamu ingin melihat hasil pesannya terlebih dulu, kamu daoat menekan tombol `Testing`",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Setelah ditekan, kamu akan mendapatkan notifikasi pesan ke nomor pribadimu sendiri, untuk memastikan apakah pesannya sudah sesuai atau belum.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "notif_6",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Memulai Siaran Notif",
+                "list": [
+                    {
+                        "value": "Jika kamu sudah yakin, kamu dapat menekan tombol `Mulai`.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Setelah ditekan, Ajakuy akan menjadwalkan notifikasi kepada tamu tiap 100 tamu secara bertahap selama 30 menit sekali, dalam kurun waktu 8:00 - 15:00 WIB. Seperti yang tertulis dalam ketentuan.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Hentikan Siaran",
+                "list": [
+                    {
+                        "value": "Selama proses siaran berlangsung kamu masih dapat mengedit pesan siaran atau menghentikan siaran jika kamu mau. Menghentikan siaran juga dapat me-logout akun whatsapp kamu dari Ajakuy.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "notif_7",
                         "type": "img"
                     }
                 ]
