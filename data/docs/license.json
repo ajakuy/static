@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Lisensi",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Ajakuy sangat transparan dan terbuka terhadap apa yang kami jual kepada para kostumer. Setiap gambar, icon tidak sepenuhnya dibuat oleh Ajakuy.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Kami menggunakan berbagai macam sumber untuk membuat produk undangan digital.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Desain",
+                "list": [
+                    {
+                        "value": "Ajakuy memnggunakan Canva Pro sebagai sumber acuan mencari undangan digital, setiap undangan dipilih sesuai dengan filosofi tema undangan kami yang sederhana, elegan, dan bersih. Kami juga menggunakan Canva Pro sebagai sumber acuan.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Canva merupakan penyedia layanan membuat desain gratis maupun berbayar. Dengan berlangganan Canva Pro, Ajakuy dapat mengakses berbgai macam desain, kemudian memisahkan elemen-elemen desain dan mengunduhnya dalam bentuk PNG, untuk disusun kembali menjadi undangan online.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Kami berlagganan Canva pro setiap ada penambahan atau pembaruan tema undangan baru yang memerlukan alat desain.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Font",
+                "list": [
+                    {
+                        "value": "Sumber font yang dipakai ajakuy semuanya berasal dari fonts.google.com, yang merupakan situs gratis untuk menggunakan font.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Icon",
+                "list": [
+                    {
+                        "value": "Sedaangkan untuk icon yang beraneka ragam, kami menggunakan icones.js.org.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Sumber",
+                "list": [
+                    {
+                        "value": "Meskipun kebanyakan icon dan font yang kami pakai bebas untuk komersial, Ajakuy tetap menyertakan sumber-sumbernya di setiap tema yang kami pakai. Pada bagian bawah di tiap-tiap undangan, kamu akan menemukan tulisan `via ajakuy.com`",
+                        "type": "text"
+                    },
+                    {
+                        "value": "license_1",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Jika ditekan akan memunculkan sumber-sumber dari komponen-komponen desain yang dipakai Ajakuy.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "license_2",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Penutup",
+                "list": [
+                    {
+                        "value": "Kami sangat menghargai setiap desain dan usaha orang-orang yang membuatnya.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Untuk itu, jika pembuat desain (dalam ranah Canva) kurang setuju dengan apa yang ingin disampaikan Ajakuy dalam halaman ini, dan ingin menetapkan harga pada desain miliknya, kamu dapat menghubungi Ajakuy lewat kontak media sosial atau e-mail.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Kami hanya menerima pesan beserta bukti bahwa kamu benar-benar pemilik desain dan alasan yang masuk akal, dan bahasa yang sopan. Kami tidak menerima alasan atas nama kerugian, karena kami sudah menggunakan Canva Pro dengan semestinya. Kami hanya akan membayar langsung kepada pemilik desain berupa hak komersial sesuai dengan harga desain yang ditawarkan dalam platform canva.",
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+]
