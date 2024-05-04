@@ -1,11 +1,22 @@
 {
+  "name": "nuxt-app",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "npx nitropack dev",
-    "build": "npx nitropack build",
-    "preview": "node .output/server/index.mjs"
+    "build": "nuxt build",
+    "dev": "nuxt dev -p 3002",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nitropack": "latest"
+    "nuxt": "^3.11.2",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "nuxt-og-image": "v3.0.0-rc.52",
+    "@iconify/json": "^2.2.206",
+    "@unocss/nuxt": "^0.59.4"
   }
 }
