@@ -60,3 +60,8 @@ export const normal: any = {
     "sans": 'DM Sans',
     "serif": 'DM Serif Display',
 }
+
+
+export const getAjakuyFontStyle = () => {
+    return { main, secondary, normal }
+}
