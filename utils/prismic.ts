@@ -13,6 +13,10 @@
 
 
 export const prismicData: string[] = [
+    'ZjxcwEMTzAJOCpb9_paper_one_love.png',
+    'ZjxcvUMTzAJOCpb8_paper_one_desy.png',
+    'ZjxclUMTzAJOCpb6_paper_one_lua.png',
+    'ZjxclEMTzAJOCpb5_paper_one_anastasia.png',
     'c558607e-cb0d-435c-9a9b-aab43a683ad6_paper_one_amelie.png',
     '8686820b-d1be-4d08-a2da-d9326b21975e_paper_one_amelly.png', 
     '359ea50d-e4d4-48ea-aaf0-8238fe6469ac_paper_one_aurora.png', 
