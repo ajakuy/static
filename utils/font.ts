@@ -53,7 +53,7 @@ export const secondary: any = {
     "montserrat": "Montserrat",
     "playfair-display": "Playfair Display",
     "merriweather-sans": "Merriweather Sans",
-    "charis-sil": "Charis SIL"
+    "charis-sil": "Charis SIL",
 }
 
 export const normal: any = {

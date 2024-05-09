@@ -13,6 +13,7 @@
 
 
 export const prismicData: string[] = [
+    'ZjydTEMTzAJOCp37_paper_one_amber.png',
     'ZjxcwEMTzAJOCpb9_paper_one_love.png',
     'ZjxcvUMTzAJOCpb8_paper_one_desy.png',
     'ZjxclUMTzAJOCpb6_paper_one_lua.png',
@@ -38,7 +39,6 @@ export const prismicData: string[] = [
     '95bddb09-af10-40cc-87b6-d330b4253468_paper_one_sophia.png', 
     '1ade9d01-c148-4d83-938a-7d3b9a954ff7_paper_one_sinta.png', 
     '6109edc1-9276-41ed-b386-a2035c180564_paper_one_sakura.png', 
-    'a076241e-d860-4174-a5f7-64702e1be561_peper_one_amber.png', 
     '4dd54e06-052b-46d6-b098-13b715252200_paper_one_aze.png', 
     '2a1122d4-030a-4568-9753-5760ac88b973_paper_one_azure.png', 
     'f72cf455-c57f-4524-b126-a66cee6351b1_paper_one_daisy.png', 
