@@ -22,6 +22,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-mdi-light-music'
     },
     font: {
+        display: 'font-prata',
         title: 'font-kaushan-script',
         titleColor: 'text-indigo-400',
         titleSize: 'md:text-6xl text-5xl',

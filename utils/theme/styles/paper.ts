@@ -23,6 +23,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-pepicons-pop-music-note-single-circle'
     },
     font: {
+        display: "font-podkova",
         title: 'font-nothing-you-could-do',
         titleColor: 'text-black',
         titleSize: 'md:text-6xl text-5xl',

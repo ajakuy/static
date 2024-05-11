@@ -21,6 +21,7 @@ export interface ThemeStyle {
         icon: string
     },
     font: {
+        display: string,
         title: string,
         titleColor: string,
         titleSize: string,

@@ -21,6 +21,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-uil-music-note'
     },
     font: {
+        display: 'font-piazzolla',
         title: 'font-cookie',
         titleColor: 'text-[#2C3447]',
         titleSize: 'md:text-6xl text-5xl',

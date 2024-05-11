@@ -21,6 +21,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-basil-music-solid'
     },
     font: {
+        display: 'font-rufina',
         title: 'font-corinthia',
         titleColor: 'text-[#2A6089]',
         titleSize: 'md:text-7xl text-6xl',

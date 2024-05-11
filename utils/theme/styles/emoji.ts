@@ -23,7 +23,8 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-twemoji-musical-note'
     },
     font: {
-        title: 'font-poiret-one font-bold italic',
+        display: "font-dhurjati",
+        title: 'font-poiret-one',
         titleColor: 'text-black',
         titleSize: 'md:text-6xl text-4xl',
         desc: 'font-ubuntu',

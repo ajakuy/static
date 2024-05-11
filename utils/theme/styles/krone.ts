@@ -22,6 +22,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-bxs-music'
     },
     font: {
+        display: "josefin-slab",
         title: 'font-edu-tas-beginner',
         titleColor: 'text-[#393E46]',
         titleSize: 'md:text-6xl text-5xl',

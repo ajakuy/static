@@ -22,6 +22,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-fluent-music-note-2-20-regular'
     },
     font: {
+        display: "font-unna",
         title: 'font-great-vibes',
         titleColor: 'text-black',
         titleSize: 'md:text-6xl text-5xl',

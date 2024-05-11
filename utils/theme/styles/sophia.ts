@@ -21,6 +21,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-circum-music-note-1'
     },
     font: {
+        display: 'font-radley',
         title: 'font-festive',
         titleColor: 'text-[#BF9A7E]',
         titleSize: 'md:text-6xl text-5xl',

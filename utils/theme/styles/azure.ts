@@ -22,6 +22,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-gg-music-note'
     },
     font: {
+        display: 'font-stoke',
         title: 'font-alex-brush',
         titleColor: 'text-[#2F4D5B]',
         titleSize: 'md:text-7xl text-5xl',
