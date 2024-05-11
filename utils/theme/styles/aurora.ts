@@ -21,7 +21,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-guidance-music-room'
     },
     font: {
-        display: 'font-jomol-hari',
         title: 'font-oooh-baby',
         titleColor: 'text-gray-700',
         titleSize: 'md:text-6xl text-5xl',

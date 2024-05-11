@@ -59,18 +59,9 @@ export const secondary: any = {
 export const normal: any = {
     "sans": 'DM Sans',
     "serif": 'DM Serif Display',
-
 }
-
-
-export const title : any = {
-    "sedan-sc": "Sedan SC",
-    "chonburi": "Chonburi",
-
-}
-
 
 
 export const getAjakuyFontStyle = () => {
-    return { main, secondary, normal, title }
+    return { main, secondary, normal }
 }

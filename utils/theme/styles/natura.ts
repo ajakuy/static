@@ -21,7 +21,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-ion-musical-notes-outline'
     },
     font: {
-        display: 'font-trocchi',
         title: 'font-allura',
         titleColor: 'text-[#2E4138]',
         titleSize: 'md:text-7xl text-5xl',

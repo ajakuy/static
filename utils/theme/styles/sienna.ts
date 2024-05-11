@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-ph-music-notes-fill'
     },
     font: {
-        display: 'font-trirong',
         title: 'font-niconne',
         titleColor: 'text-[#65647C]',
         titleSize: 'md:text-6xl text-5xl',

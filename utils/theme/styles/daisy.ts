@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-icon-park-solid-music-one'
     },
     font: {
-        display: 'font-jacques-francois',
         title: 'font-square-peg',
         titleColor: 'text-[#F7F7F7]',
         titleSize: 'md:text-6xl text-5xl',

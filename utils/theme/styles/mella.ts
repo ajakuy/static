@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-ri-music-fill'
     },
     font: {
-        display: 'font-yeseva-one',
         title: 'font-sacramento',
         titleColor: 'text-[#8E4A32]',
         titleSize: 'md:text-7xl text-5xl',

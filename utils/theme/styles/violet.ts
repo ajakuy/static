@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-clarity-music-note-solid'
     },
     font: {
-        display: "font-lancelot",
         title: 'font-beau-rivange',
         titleColor: 'text-[#142547]',
         titleSize: 'md:text-7xl text-5xl',

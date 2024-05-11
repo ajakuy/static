@@ -21,7 +21,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-ph-music-notes-simple-light'
     },
     font: {
-        display: 'font-dm-serif-display',
         title: 'font-corinthia',
         titleColor: 'text-[#3A4668]',
         titleSize: 'md:text-7xl text-6xl',

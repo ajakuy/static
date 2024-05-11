@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-teenyicons-headphones-outline'
     },
     font: {
-        display: 'font-mate',
         title: 'font-square-peg',
         titleColor: 'text-white',
         titleSize: 'md:text-6xl text-5xl',

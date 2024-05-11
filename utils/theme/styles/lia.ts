@@ -21,7 +21,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-iconamoon-music-2-thin'
     },
     font: {
-        display: "font-quattrocento",
         title: 'font-lavishly-yours',
         titleColor: 'text-[#8E4A32]',
         titleSize: 'md:text-6xl text-5xl',

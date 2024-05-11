@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-bytesize-music'
     },
     font: {
-        display: 'font-sedan',
         title: 'font-pinyon-script',
         titleColor: 'text-black',
         titleSize: 'md:text-6xl text-5xl',

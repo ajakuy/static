@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-ooui-musical-score'
     },
     font: {
-        display: "font-kalnia",
         title: 'font-satisfy',
         titleColor: 'text-white',
         titleSize: 'md:text-6xl text-5xl',

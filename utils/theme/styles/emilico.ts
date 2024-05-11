@@ -22,7 +22,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-mdi-light-music'
     },
     font: {
-        display: 'font-sedan-sc',
         title: 'font-edu-tas-beginner',
         titleColor: 'text-white',
         titleSize: 'md:text-6xl text-5xl',

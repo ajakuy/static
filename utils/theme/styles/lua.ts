@@ -21,7 +21,6 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-jam-music-f'
     },
     font: {
-        display: 'font-',
         title: 'font-parisienne',
         titleColor: 'text-gray-700',
         titleSize: 'md:text-6xl text-5xl',
