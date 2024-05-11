@@ -22,6 +22,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-teenyicons-headphones-outline'
     },
     font: {
+        display: 'font-ibarra-real-nova',
         title: 'font-satisfy',
         titleColor: 'text-pink-400',
         titleSize: 'md:text-6xl text-5xl',

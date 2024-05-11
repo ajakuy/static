@@ -21,6 +21,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-streamline-entertainment-music-note-2-music-audio-note'
     },
     font: {
+        display: 'font-gideon-roman',
         title: 'font-ephesis',
         titleColor: 'text-gray-700',
         titleSize: 'md:text-6xl text-5xl',

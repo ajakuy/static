@@ -23,6 +23,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-lucide-music-2'
     },
     font: {
+        display: "font-old-standard-tt",
         title: 'font-pinyon-script',
         titleColor: 'text-black',
         titleSize: 'md:text-6xl text-5xl',

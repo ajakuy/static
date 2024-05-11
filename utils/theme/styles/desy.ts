@@ -21,6 +21,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-typcn-notes-outline'
     },
     font: {
+        display: 'font-linden-hill',
         title: 'font-tangerine',
         titleColor: 'text-[#2E4C54]',
         titleSize: 'md:text-7xl text-6xl',

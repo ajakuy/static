@@ -21,6 +21,7 @@ export const themeStyle: ThemeStyle = {
         icon: ' i-humbleicons-music-note'
     },
     font: {
+        display: "font-italiana",
         title: 'font-dawning-of-a-new-day',
         titleColor: 'text-black',
         titleSize: 'md:text-6xl text-5xl',

@@ -22,6 +22,7 @@ export const themeStyle: ThemeStyle = {
         icon: 'i-ri-music-fill'
     },
     font: {
+        display: "font-caudex",
         title: 'font-great-vibes',
         titleColor: 'text-[#592f10]',
         titleSize: 'md:text-7xl text-5xl',
