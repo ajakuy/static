@@ -1,3 +1,0 @@
-<template>
-    sup homies
-</template>
