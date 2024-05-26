@@ -35,7 +35,7 @@ export const themeStyle: ThemeStyle = {
     quote: {
         bg: 'bg-yellow-400',
         icon: 'i-typcn-heart-outline text-gray-800',
-        border: '',
+        border: 'border-yellow-400',
     },
     livestream: {
         border: 'border-4 border-yellow-400'
