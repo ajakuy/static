@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Horizon",
+        "slug": "one",
+        "desc": "Layout landscape",
+        "download": [
+            {
+                "name": "Depan",
+                "slug": "front"
+            },
+            {
+                "name": "Belakang",
+                "slug": "front"
+            },
+            {
+                "name": "Depan Kosong",
+                "slug": "frontblank"
+            },
+            {
+                "name": "Belakang Kosong",
+                "slug": "frontblank"
+            }
+        ]
+    },
+    {
+        "name": "Vertika",
+        "slug": "two",
+        "desc": "Layout portrait",
+        "download": [
+            {
+                "name": "Depan",
+                "slug": "front"
+            },
+            {
+                "name": "Belakang",
+                "slug": "front"
+            },
+            {
+                "name": "Depan Kosong",
+                "slug": "frontblank"
+            },
+            {
+                "name": "Belakang Kosong",
+                "slug": "frontblank"
+            }
+        ]
+    },
+    {
+        "name": "Horizon Mail",
+        "slug": "three",
+        "desc": "Layout landscape seperti amplop",
+        "download": [
+            {
+                "name": "Depan",
+                "slug": "front"
+            },
+            {
+                "name": "Belakang",
+                "slug": "front"
+            },
+            {
+                "name": "Depan Kosong",
+                "slug": "frontblank"
+            },
+            {
+                "name": "Belakang Kosong",
+                "slug": "frontblank"
+            }
+        ]
+    }
+]
