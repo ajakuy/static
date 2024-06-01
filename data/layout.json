@@ -10,7 +10,7 @@
             },
             {
                 "name": "Belakang",
-                "slug": "front"
+                "slug": "back"
             },
             {
                 "name": "Depan Kosong",
@@ -18,7 +18,7 @@
             },
             {
                 "name": "Belakang Kosong",
-                "slug": "frontblank"
+                "slug": "backblank"
             }
         ]
     },
