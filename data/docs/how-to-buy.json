@@ -3,7 +3,7 @@
         "name": "Cara Beli",
         "list": [
             {
-                "title": "Buat akun terlebih dulu",
+                "title": "Login atau buat akun terlebih dulu",
                 "list": [
                     {
                         "value": "Untuk dapat melakukan proses pembelian, kamu harus terdaftar. Pendaftaran cukup menggunakan email dan mengatur kata sandi.",
@@ -84,6 +84,76 @@
                     }
                 ]
             }
+        ]
+    },
+    {
+        "name": "Cara Beli Cepat",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Beli cepat digunakan jika kamu ingin mengedit tema dulu, baru melakukan pembayaran.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "title": "Login atau buat akun terlebih dulu",
+                "list": [
+                    {
+                        "value": "Untuk dapat melakukan proses pembelian, kamu harus terdaftar. Pendaftaran cukup menggunakan email dan mengatur kata sandi.",
+                        "type": "text"
+                    }
+                ]
+            },
+
+            {
+                "title": "Pilih tema undangan",
+                "list": [
+                    {
+                        "value": "Tinggal klik tombol `Pakai Cepat` sesuai tema yang kamu inginkan.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "how_to_buy_6",
+                        "type": "img"
+                    }
+                ]
+            },
+            
+            {
+                "title": "Edit Tema",
+                "list": [
+                    {
+                        "value": "Kalian akan otomatis dialihkan ke halaman edit undangan, tapi kamu tidak dapat mempublikasi undangan sebelum melakukan pembayaran, ketika ingin menekan tombol publish, kalian akan mendapatkan notif harus membayar dulu",
+                        "type": "text"
+                    },
+                    {
+                        "value": "how_to_buy_7",
+                        "type": "img"
+                    }
+                ]
+            },
+            
+            {
+                "title": "Pembayaran",
+                "list": [
+                    {
+                        "value": "Kalian akan melakukan pembayaran seperti biasa, setelah menekan tombol checkout.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "how_to_buy_9",
+                        "type": "img"
+                    },
+                    {
+                        "value": "Fitur beli cepat hanya untuk pembelian tema dan tidak mendukung diskon.",
+                        "type": "alert-warning"
+                    }
+                ]
+            }
+        
         ]
     }
 ]

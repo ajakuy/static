@@ -43,7 +43,6 @@
                         "value": "tutorial_3",
                         "type": "img"
                     }
-
                 ]
             },
             {
@@ -507,6 +506,74 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Cetak Undangan",
+        "list": [
+            {
+                "title": "Tentang",
+                "list": [
+                    {
+                        "value": "Fitur ini memungkinkan kamu mencetak undangan sesuai dengan tema yang kamu beli, fitur ini hanya tersedia ketika kamu membeli tema lewat paket.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Pada halaman undangan akan ada tombol menu cetak yang dapat diklik.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "print_1",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Data",
+                "list": [
+                    {
+                        "value": "Akan ada 3 tab menu, salah satunya adalah tab data. Disinilah data atau informasi cetak undangan yang akan dicetak, jika sudah diisi kamu dapat menekan tombol simpan bulat di pojok kanan bawah.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Infromasi ini terhubung juga dengan halaman edit, jika data ini diganti makan data di halaman edit akan terganti juga, dan sebaliknya.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "print_2",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Tamu",
+                "list": [
+                    {
+                        "value": "Data tamu ini adalah informasi tamu yang ingin ditaruh di undangan cetak, data ini berasal dari halaman edit tamu. Maksimal tamu yang dapat dililih adalah 15, per masing-masing mempelai, jika sudah diisi kamu dapat menekan tombol simpan bulat di pojok kanan bawah.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "print_3",
+                        "type": "img"
+                    }
+                ]
+            },
+            {
+                "title": "Layout",
+                "list": [
+                    {
+                        "value": "Kami adalah tampilan cetak undangan, kamu dapat memilih yang kamu suka, atau kamu dapat memilih layout kosong tanpa kata-kata, jika ingin mengeditnya di tempat lain. File layout berupa gambar berformat PNG yang dapat diunduh,",
+                        "type": "text"
+                    },
+                    {
+                        "value": "Layout terdiri dari depan dan belakang, yang nanti akan kamu cetak sendiri bolak-balik. File layout berup.",
+                        "type": "text"
+                    },
+                    {
+                        "value": "print_4",
+                        "type": "img"
+                    }
+                ]
+            }
+        ]
     }
-
 ]
