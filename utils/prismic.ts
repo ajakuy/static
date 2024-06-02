@@ -13,13 +13,13 @@
 
 
 export const prismicData: string[] = [
+    "ZlxK8aWtHYXtT_yA_print_3.jpg", 
+    "ZlxK8aWtHYXtT_x__print_4.jpg", 
+    "ZlxK7KWtHYXtT_x-_print_1.jpg", 
     "ZlxK5aWtHYXtT_x8_how_to_buy_6.jpg",
+    "ZlxK5aWtHYXtT_x9_how_to_buy_8.jpg", 
+    "ZlxKzqWtHYXtT_x4_print_2.jpg", 
     "ZlxKzqWtHYXtT_x5_how_to_buy_7.jpg",
-    "ZlxK5aWtHYXtT_x9_how_to_buy_8.jpg",
-    "ZlxK7KWtHYXtT_x-_print_1.jpg",
-    "ZlxKzqWtHYXtT_x4_print_2.jpg",
-    "ZlxK8aWtHYXtT_yA_print_3.jpg",
-    "ZlxK8aWtHYXtT_x__print_4.jpg",
     "ZkjgACol0Zci9Qx1_paper_two_amber.png",
     "Zkjf_Sol0Zci9Qx0_paper_two_amelie.png",
     "Zkjf-iol0Zci9Qxz_paper_two_anastasia.png",
