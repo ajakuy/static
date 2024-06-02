@@ -126,7 +126,7 @@
                 "title": "Edit Tema",
                 "list": [
                     {
-                        "value": "Kalian akan otomatis dialihkan ke halaman edit undangan, tapi kamu tidak dapat mempublikasi undangan sebelum melakukan pembayaran, ketika ingin menekan tombol publish, kalian akan mendapatkan notif harus membayar dulu",
+                        "value": "Kalian akan otomatis dialihkan ke halaman edit undangan, tapi kamu tidak dapat mempublikasi undangan sebelum melakukan pembayaran, ketika ingin menekan tombol publish, kalian akan mendapatkan notif harus membayar dulu.",
                         "type": "text"
                     },
                     {
