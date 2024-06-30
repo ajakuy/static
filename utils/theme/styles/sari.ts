@@ -6,7 +6,7 @@ export const themeStyle: ThemeStyle = {
     bg: 'bg-[#30241F]',
     gallery: '',
     cover: 'h-55 w-80',
-    layout: 'One',
+    layout: 'Three',
     gift: 'i-codicon-gift',
     separate: '/',
     gradient: '',
