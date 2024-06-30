@@ -31,14 +31,25 @@ import { themeStyle as sophia } from './theme/styles/sophia'
 import { themeStyle as violet } from './theme/styles/violet'
 import { themeStyle as zephyra } from './theme/styles/zephyra'
 
+import { themeStyle as arga } from './theme/styles/arga'
+import { themeStyle as azka } from './theme/styles/azka'
+import { themeStyle as cahyo } from './theme/styles/cahyo'
+import { themeStyle as huang } from './theme/styles/huang'
+import { themeStyle as nugraha } from './theme/styles/nugraha'
+import { themeStyle as sari } from './theme/styles/sari'
+import { themeStyle as setiyo } from './theme/styles/setiyo'
+import { themeStyle as thoriq } from './theme/styles/thoriq'
+import { themeStyle as yudha } from './theme/styles/yudha'
+import { themeStyle as yunita } from './theme/styles/yunita'
+
 
 export const getAjakuyThemeStyle = () => {
 
     return {
         amber, amelly, amelie, anastasia, aurel, aurora, aze, azure, daisy, desy, eliana, ellena, emilico,
         emoji, emy, glory, krone, lia, love, lua, mella, mew, nancy, natura, paper, roman, sakura, sienna, sinta,
-        sophia, violet, zephyra
+        sophia, violet, zephyra, arga, azka, cahyo, huang, nugraha, sari, setiyo,
+        thoriq, yudha, yunita
+
     }
-
-
 }

@@ -29,7 +29,13 @@ export const main: any = {
     "give-you-glory": "Give You Glory",
     "satisfy": "Satisfy",
     "kaushan-script": "Kaushan Script",
-    "niconne": "Niconne"
+    "niconne": "Niconne",
+    "waterfall": "Waterfall",
+    "playwrite-india": "Playwrite IN",
+    "playwrite-indonesia" : "Playwrite ID",
+    "playwrite-usa-traditional": "Playwrite US Trad",
+    "italianno": "Italianno",
+    "yellowtail": "Yellowtail",
 }
 
 
@@ -54,6 +60,15 @@ export const secondary: any = {
     "playfair-display": "Playfair Display",
     "merriweather-sans": "Merriweather Sans",
     "charis-sil": "Charis SIL",
+    "questrial": "Questrial",
+    "hind-siliguri":"Hind Siliguri",
+    "karla": "Karla",
+    "rubik": "Rubik",
+    "gfs-neohellenic": "GFS Neohellenic",
+    "poppins": "Poppins",
+    "urbanist": "Urbanist",
+    "josh": "Josh",
+    "varta": "Varta",
 }
 
 export const normal: any = {
@@ -95,7 +110,14 @@ export const title: any = {
     "italiana": "Italiana",
     "radley": "Radley",
     "lancelot": "Lancelot",
-    "kalnia": "Kalnia"
+    "kalnia": "Kalnia",
+    "old-Standard-tt": "Old Standard TT",
+    "cinzel" : "Cinzel",
+    "lora": "lora",
+    "pt-serif": "PT Serif",
+    "eb-garamond": "EB Garamond",
+    "libre-baskerville": "Libre Baskerville",
+    "cormorant-garamond" : "Cormorant Garamond"
 }
 
 
