@@ -180,8 +180,20 @@
                 "title": "Poin",
                 "list": [
                     {
-                        "value": "Poin Ajakuy bersifat pribadi dan dapat bertambah setelah pelanggan memberikan testimoni pada undangan yang sudah dibeli. Poin ini dapat ditukarkan dengan promo khusus yang hanya bisa diperoleh dengan menukarkan poin. Poin hanya terkait dengan diskon pembelian tema di website Ajakuy.",
+                        "value": "Poin Ajakuy bersifat pribadi dan dapat bertambah setelah pelanggan memberikan testimoni pada undangan yang sudah dibeli, poin hanya akan muncul jika kamu mulai mengikuti reward. Poin ini dapat ditukarkan dengan promo khusus yang hanya bisa diperoleh dengan menukarkan poin. Poin hanya terkait dengan diskon pembelian tema di website Ajakuy.",
                         "type": "text"
+                    },
+                    {
+                        "value": "Pengguna akan mendapatkan poin dengen beberapa cara, tiap cara menentukan jumlah poin yang didapat, antara lain:",
+                        "type": "text"
+                    },
+                    {
+                        "value": [
+                            "Membeli Tema, 10 Poin",
+                            "Memberi Testimoni, 50 Poin",
+                            "Membeli Paket, seusai jumlah poin di tiap-tiap paket"
+                        ],
+                        "type": "list"
                     }
                 ]
             },

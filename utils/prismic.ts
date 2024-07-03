@@ -10,9 +10,53 @@
 // }
 
 // console.log(array)
+///////////////////////////////////////
+
+
+// const htmlString = ``
+// const parser = new DOMParser();
+// const doc = parser.parseFromString(htmlString, 'text/html');
+// const imgElements = doc.querySelectorAll('img');
+// const srcArray = Array.from(imgElements).map(img => img.src);
+
+// console.log(srcArray);
 
 
 export const prismicData: string[] = [
+
+    "ZoSapB5LeNNTwvCF_paper_two_yunita.png",
+    "ZoSanh5LeNNTwvCE_paper_two_thoriq.png",
+    "ZoSanR5LeNNTwvCD_paper_two_setiyo.png",
+    "ZoSanB5LeNNTwvCC_paper_two_sari.png",
+    "ZoSamx5LeNNTwvCB_paper_two_nugraha.png",
+    "ZoSamh5LeNNTwvCA_paper_two_yudha.png",
+    "ZoSakB5LeNNTwvB__paper_two_arga.png",
+    "ZoSajh5LeNNTwvB9_paper_two_huang.png",
+    "ZoSajR5LeNNTwvB8_paper_two_cahyo.png",
+    "ZoSajR5LeNNTwvB7_paper_two_azka.png",
+    
+    "ZoSajx5LeNNTwvB-_paper_one_yunita.png",
+    "ZoSafh5LeNNTwvB5_paper_one_cahyo.png",
+    "ZoSafR5LeNNTwvB4_paper_one_azka.png",
+    "ZoSafB5LeNNTwvB3_paper_one_arga.png",
+    "ZoSbux5LeNNTwvCK_paper_one_setiyo.png",
+    "ZoSgmR5LeNNTwvCh_paper_one_yudha.png",
+    "ZoSglh5LeNNTwvCg_paper_one_thoriq.png",
+    "ZoSgkx5LeNNTwvCf_paper_one_sari.png",
+    "ZoSgjB5LeNNTwvCe_paper_one_nugraha.png",
+    "ZoSgih5LeNNTwvCd_paper_one_huang.png",
+    
+    "ZoSafx5LeNNTwvB6_og_yudha.png",
+    "ZoSaex5LeNNTwvB2_og_yunita.png",
+    "ZoSabx5LeNNTwvB1_og_setiyo.png",
+    "ZoSabR5LeNNTwvB0_og_sari.png",
+    "ZoSabB5LeNNTwvBz_og_nugraha.png",
+    "ZoSabB5LeNNTwvBy_og_huang.png",
+    "ZoSaax5LeNNTwvBx_og_thoriq.png",
+    "ZoSaYR5LeNNTwvBw_og_arga.png",
+    "ZoSaYB5LeNNTwvBv_og_cahyo.png",
+    "ZoSaXx5LeNNTwvBu_og_azka.png",
+
 
     "ZoEW-B5LeNNTwp89_cover_setiyo.png",
     "ZoEW9B5LeNNTwp88_cover_sari.png",
