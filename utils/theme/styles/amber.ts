@@ -15,6 +15,11 @@ export const themeStyle: ThemeStyle = {
         Two: 'md:h-55 md:w-55 w-45 h-45 ',
         Three: 'h-full w-full'
     },
+    dynamicInviter: {
+        One: 'h-40 w-40',
+        Two: 'h-40 w-40',
+        Three: 'sm:w-80 sm:h-80 w-full h-full'
+    },
     sidebottom: {
         bg: 'bg-white',
         text: 'text-black',

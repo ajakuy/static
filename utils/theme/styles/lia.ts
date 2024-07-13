@@ -25,6 +25,11 @@ export const themeStyle: ThemeStyle = {
         bg: 'bg-[#FAF4EF] border border-[#8E4A32]',
         icon: 'i-iconamoon-music-2-thin'
     },
+    dynamicInviter: {
+        One: 'h-40 w-40',
+        Two: 'h-40 w-40',
+        Three: 'sm:w-80 sm:h-80 w-full h-full'
+    },
     font: {
         display: "font-quattrocento",
         title: 'font-lavishly-yours',

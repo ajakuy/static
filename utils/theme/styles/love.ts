@@ -26,6 +26,11 @@ export const themeStyle: ThemeStyle = {
         bg: 'bg-[#F1A2A8]',
         icon: 'i-fluent-music-note-2-20-regular'
     },
+    dynamicInviter: {
+        One: 'h-40 w-40',
+        Two: 'h-40 w-40',
+        Three: 'sm:w-80 sm:h-80 w-full h-full'
+    },
     font: {
         display: "font-unna",
         title: 'font-great-vibes',

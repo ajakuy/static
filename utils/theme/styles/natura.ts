@@ -25,6 +25,11 @@ export const themeStyle: ThemeStyle = {
         bg: 'bg-[#F1EEE7]',
         icon: 'i-ion-musical-notes-outline'
     },
+    dynamicInviter: {
+        One: 'h-40 w-40',
+        Two: 'h-40 w-40',
+        Three: 'sm:w-80 sm:h-80 w-full h-full'
+    },
     font: {
         display: 'font-trocchi',
         title: 'font-allura',

@@ -15,6 +15,11 @@ export const themeStyle: ThemeStyle = {
         text: 'text-slate-600',
         padding: ''
     },
+    dynamicInviter: {
+        One: 'h-40 w-40',
+        Two: 'h-40 w-40',
+        Three: 'sm:w-80 sm:h-80 w-full h-full'
+    },
     dynamicCover: {
         One: 'w-55 h-55',
         Two: 'w-55 h-55',

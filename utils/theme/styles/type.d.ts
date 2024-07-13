@@ -8,6 +8,11 @@ export interface ThemeStyle {
         Two: string,
         Three: string
     },
+    dynamicInviter: {
+        One: string,
+        Two: string,
+        Three: string
+    },
     scrollbar?: string,
     overlay?: string,
     gradient?: string, 

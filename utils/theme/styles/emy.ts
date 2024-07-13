@@ -20,6 +20,11 @@ export const themeStyle: ThemeStyle = {
         text: 'text-gray-200',
         padding: 'p-0'
     },
+    dynamicInviter: {
+        One: 'h-40 w-40',
+        Two: 'h-40 w-40',
+        Three: 'sm:w-80 sm:h-80 w-full h-full'
+    },
     music: {
         text: 'text-gray-200',
         border: 'rounded',

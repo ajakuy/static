@@ -20,6 +20,11 @@ export const themeStyle: ThemeStyle = {
         text: 'text-[#DFB39C]',
         padding: ''
     },
+    dynamicInviter: {
+        One: 'h-40 w-40',
+        Two: 'h-40 w-40',
+        Three: 'sm:w-80 sm:h-80 w-full h-full'
+    },
     music: {
         text: 'text-[#DFB39C]',
         border: 'rounded border border-[#65647C] rounded-lg',
