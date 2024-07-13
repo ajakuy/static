@@ -20,19 +20,15 @@ export const main: any = {
     "grey-qo": "Grey Qo",
     "festive": "Festive",
     "ephesis": "Ephesis",
-    "vujahday-script": "Vujahday Script",
     "lavishly-yours": "Lavishly Yours",
-    "bad-script": "Bad Script",
     "square-peg": "Square Peg",
     "edu-tas-beginner": "Edu TAS Beginner",
     "nothing-you-could-do": "Nothing You Could Do",
-    "give-you-glory": "Give You Glory",
     "satisfy": "Satisfy",
     "kaushan-script": "Kaushan Script",
     "niconne": "Niconne",
     "waterfall": "Waterfall",
     "playwrite-india": "Playwrite IN",
-    "playwrite-indonesia" : "Playwrite ID",
     "playwrite-usa-traditional": "Playwrite US Trad",
     "italianno": "Italianno",
     "yellowtail": "Yellowtail",
@@ -52,7 +48,6 @@ export const secondary: any = {
     "noto-serif-display": "Noto Serif Display",
     "alata": "Alata",
     "anek-bangla": "Anek Bangla",
-    "lateef": "Lateef",
     "snippet": "Snippet",
     "dosis": "Dosis",
     "cutive-mono": "Cutive Mono",
@@ -69,12 +64,6 @@ export const secondary: any = {
     "urbanist": "Urbanist",
     "josh": "Josh",
     "varta": "Varta",
-}
-
-export const normal: any = {
-    "sans": 'DM Sans',
-    "serif": 'DM Serif Display',
-
 }
 
 export const title: any = {
@@ -123,7 +112,7 @@ export const title: any = {
 
 
 export const getAjakuyFontStyle = () => {
-    return { main, secondary, normal, title }
+    return { main, secondary, title }
 }    
 
 
