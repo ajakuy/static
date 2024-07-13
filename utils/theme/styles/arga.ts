@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-iconoir-gift',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#001D30]/70',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#001D3D] shadow-md border-t-4 border-[#C1AA70] rounded-t-xl ',
         text: 'text-[#D1AE5D] font-semibold underline underline-offset-2',

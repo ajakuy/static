@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-codicon-gift',
     separate: '/',
     gradient: '',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#3E3232] shadow-md border-b-5 border-[#E0A270]',
         text: 'text-[#E0A270] underline  decoration-dotted',

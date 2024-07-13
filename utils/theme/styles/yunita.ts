@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-vaadin-gift',
     separate: '/',
     gradient: '',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#1D3039] shadow-md border border-[#DBCA75]/50 rounded',
         text: 'text-[#DBCA75]',

@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-solar-gift-bold',
     separate: '/',
     gradient: '',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#040301] shadow-md border border-black rounded ',
         text: 'text-[#D1AE5D] underline underline-offset-2 underline-dotted',

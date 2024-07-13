@@ -3,6 +3,11 @@ export interface ThemeStyle {
     layer: string,
     cover: string,
     layout: 'One' | 'Two' | 'Three',
+    dynamicCover: {
+        One: string,
+        Two: string,
+        Three: string
+    },
     scrollbar?: string,
     overlay?: string,
     gradient?: string, 

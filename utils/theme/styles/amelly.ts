@@ -9,6 +9,11 @@ export const themeStyle: ThemeStyle = {
     layout: 'One',
     gift: ' i-bytesize-gift', 
     separate: '|',
+    dynamicCover: {
+        One: 'h-70 w-50',
+        Two: 'h-70 w-50',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#3A4668]',
         text: 'text-[#DFB39C]',

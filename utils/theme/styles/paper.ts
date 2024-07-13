@@ -10,7 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-pepicons-pop-gift-circle',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#E8E6D9]',
-
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#E8E6D9] border-2 rounded-2xl shadow-md border-b-4 border-[#c3b091] border-t-0 border-l-0 border-r-0',
         text: 'text-gray-600',

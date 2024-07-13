@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-teenyicons-gift-outline',
     separate: '/',
     gradient: 'bg-gradient-to-t from-pink-50',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#FED9ED] border-2 rounded shadow-md border-b-4 border-[#BB9CC0] border-t-0 border-l-0 border-r-0',
         text: 'text-[#67729D]',

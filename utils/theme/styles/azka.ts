@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-mingcute-gift-2-line',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#203229]/95',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#203229] shadow-md border-r-4 border-l-4 border-[#FFC764]  ',
         text: 'text-[#FFC764] font-semibold underline underline-offset-2 underline-wavy',

@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-icon-park-solid-gift',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#282727]',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#F2E7D5] shadow-md border-gray-200/50 border-t-2',
         text: 'text-[#282727]',

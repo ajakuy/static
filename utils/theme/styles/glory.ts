@@ -11,6 +11,11 @@ export const themeStyle: ThemeStyle = {
     layout: 'One',
     gift: ' i-lucide-gift', 
     separate: '·',
+    dynamicCover: {
+        One: 'w-42 h-67',
+        Two: 'w-42 h-67',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#DFB39C]',
         text: 'text-slate-700',

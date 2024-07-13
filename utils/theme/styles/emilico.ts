@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-mdi-light-gift',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#272727]',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'backdrop-blur-md bg-[#272727]/10 shadow-md border border-[#f6f6e9]/20',
         text: 'text-[#f6f6e9]',

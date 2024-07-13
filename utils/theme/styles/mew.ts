@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     layout: 'One',
     gift: 'i-system-uicons-gift', 
     separate: '~', 
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: 'h-75 w-50',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#F5EADE] rounded-t-2',
         text: 'text-yellow-900',

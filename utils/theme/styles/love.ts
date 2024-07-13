@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     layout: 'One',
     gift: 'i-fluent-gift-20-regular', 
     separate: '~',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: 'h-75 w-50',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#F1A2A8] rounded-t-2xl',
         text: 'text-white',

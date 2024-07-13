@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-lets-icons-gift',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#1C2120]/90',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#1C2120] shadow-md border border-[#EED089] rounded  ',
         text: 'text-[#EED089] font-thin',

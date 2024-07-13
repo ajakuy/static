@@ -14,6 +14,11 @@ export const themeStyle: ThemeStyle = {
         text: 'text-white',
         padding: 'p-0'
     },
+    dynamicCover: {
+        One: 'h-60 w-60',
+        Two: 'h-60 w-60',
+        Three: 'h-full w-full'
+    },
     music: {
         text: 'text-white',
         border: 'rounded',

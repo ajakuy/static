@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-system-uicons-gift',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#44312B]/80',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#44312B] shadow-md border-t-4 border-[#FFE48F]  ',
         text: 'text-[#FFE48F] font-thin',

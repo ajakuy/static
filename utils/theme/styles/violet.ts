@@ -15,6 +15,11 @@ export const themeStyle: ThemeStyle = {
         text: 'text-slate-600',
         padding: ''
     },
+    dynamicCover: {
+        One: 'w-55 h-55',
+        Two: 'w-55 h-55',
+        Three: 'h-full w-full'
+    },
     music: {
         text: 'text-slate-600',
         border: 'rounded-full',

@@ -10,6 +10,11 @@ export const themeStyle: ThemeStyle = {
     gift: 'i-ph-gift-fill',
     separate: '/',
     gradient: 'bg-gradient-to-t from-[#FDF7E4]',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: ' h-60 w-60',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-[#FAEED1] shadow-md border-[#65647C] border',
         text: 'text-[#65647C]',

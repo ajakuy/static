@@ -11,6 +11,11 @@ export const themeStyle: ThemeStyle = {
     layout: 'One',
     gift: 'i-twemoji-wrapped-gift', 
     separate: '/',
+    dynamicCover: {
+        One: 'h-75 w-50',
+        Two: 'h-75 w-50',
+        Three: 'h-full w-full'
+    },
     sidebottom: {
         bg: 'bg-yellow-400 border-b-4 border-black',
         text: 'text-black',
