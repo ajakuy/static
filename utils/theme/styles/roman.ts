@@ -17,7 +17,7 @@ export const themeStyle: ThemeStyle = {
     },
     dynamicCover: {
         One: 'md:h-75 h-60 md:w-50 w-40',
-        Two: 'md:h-75 h-60 md:w-50 w-40',
+        Two: 'w-60 w-60',
         Three: 'h-full w-full'
     },
     dynamicInviter: {

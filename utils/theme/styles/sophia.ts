@@ -20,7 +20,7 @@ export const themeStyle: ThemeStyle = {
         Three: 'sm:w-80 sm:h-80 w-full h-full'
     },
     dynamicCover: {
-        One: 'h-60 w-60',
+        One: 'h-75 w-50',
         Two: 'h-60 w-60',
         Three: 'h-full w-full'
     },
