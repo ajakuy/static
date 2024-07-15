@@ -35,7 +35,7 @@ export const themeStyle: ThemeStyle = {
         display: 'font-rozha-one',
         title: 'font-playwrite-india',
         titleColor: 'text-white',
-        titleSize: 'md:text-6xl text-5xl',
+        titleSize: 'md:text-4xl text-3xl',
         desc: 'font-hind-siliguri',
         descColor: 'text-[#DBCA75]',
         titleSize2: 'md:text-3xl text-2xl'
